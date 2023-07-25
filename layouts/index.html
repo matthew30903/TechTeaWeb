@@ -1,4 +1,6 @@
 {{ define "main" -}}
+
+{{ .Content }}
 <div class="posts">
     {{ range (.Paginate (where .Site.RegularPages "Type" "articles")).Pages }}
     <article class="post">
