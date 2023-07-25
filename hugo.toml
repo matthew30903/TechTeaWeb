@@ -19,9 +19,10 @@ pluralizelisttitles = false
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "About", URL = "/about/", HasChildren = false},
         {Name = "Articles", URL = "/articles/", Pre = "Recent", HasChildren = true, Limit = 5},
+        {Name = "Notes", URL = "/notes/", Pre = "Recent", HasChildren = false, Limit = 0},
         {Name = "Tags", URL = "/tags/", Pre = "Recent", HasChildren = false, Limit = 0},
+        {Name = "About", URL = "/about/", HasChildren = false},
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
@@ -83,9 +84,9 @@ pluralizelisttitles = false
 
 [permalinks]
     [permalinks.page]
-        posts = '/articles/:year/:month/:slugorfilename/'
+        articles = '/articles/:year/:slugorfilename/'
     [permalinks.section]
-        posts = '/articles/'
+        articles = '/articles/'
 
 [taxonomies]
     series = 'series'
