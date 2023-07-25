@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
+        "usernamehw.errorlens",
+        "budparr.language-hugo-vscode"
+    ]
+}

@@ -1,0 +1,167 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "posts",
+      "pageBundle": true,
+      "previewPath": "{{slug}}",
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string",
+          "single": true
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime",
+          "isPublishDate": true
+        },
+        {
+          "title": "draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "featuredImage",
+          "name": "featuredImage",
+          "type": "image",
+          "isPreviewImage": true
+        },
+        {
+          "title": "description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "keywords",
+          "name": "keywords",
+          "type": "string"
+        },
+        {
+          "title": "url",
+          "name": "url",
+          "type": "slug"
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "about",
+      "path": "[[workspace]]/content/about"
+    },
+    {
+      "title": "posts",
+      "path": "[[workspace]]/content/posts",
+      "contentTypes": [
+        "post"
+      ]
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "Android",
+    "Audio",
+    "Bittorrent",
+    "Command Line",
+    "Computer",
+    "Computer Hardware",
+    "Computer History",
+    "Computer Repair",
+    "Cross-Platform",
+    "Customization",
+    "Development",
+    "Digital Freedom",
+    "FOSS",
+    "Facebook",
+    "Fediverse",
+    "Firefox",
+    "Firefox Addons",
+    "Firefox Tweaks",
+    "Free Software",
+    "Freedom",
+    "Game Design",
+    "Game Dev",
+    "Gmail",
+    "Google",
+    "Internet",
+    "KDE",
+    "Keyboard Shortcuts",
+    "LibreOffice",
+    "Linux",
+    "Logseq",
+    "Mac",
+    "Maintenance",
+    "Net Neutrality",
+    "Nextcloud",
+    "Note Taking",
+    "Open Source",
+    "Philosophy",
+    "Privacy",
+    "Productivity",
+    "RPG MakerMV",
+    "RSS",
+    "Raspberry Pi",
+    "Repair",
+    "Thunderbird",
+    "Torrent",
+    "Tutorials",
+    "Twine Game",
+    "Video Games",
+    "Virtual Machine",
+    "VirtualBox",
+    "Windows",
+    "Windows 10",
+    "Year Review",
+    "ipconfig",
+    "launchy",
+    "security"
+  ],
+  "frontMatter.taxonomy.categories": [
+    "Android",
+    "App Spotlight",
+    "Game Development",
+    "Introduction to Computers",
+    "Linux",
+    "Philosophy",
+    "RPG Maker MV",
+    "Tech Tips",
+    "Twine",
+    "Uncategorized",
+    "Windows",
+    "Year Review"
+  ],
+  "frontMatter.taxonomy.series": [
+    {
+      "id": "customTaxonomy",
+      "options": [
+        "Introduction to Computers",
+        "Make a Game with RPG Maker MV"
+      ]
+    }
+  ]
+}
