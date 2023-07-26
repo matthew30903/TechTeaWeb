@@ -9,7 +9,7 @@ p_given_name: "Matthew"
 p_family_name: "Lamont"
 u_email: "dev@mattlamont.com"
 p_note: "Digital freedom and FOSS software advocate."
-photo: 
+photo: /img/people/matthew_lamont.jpg
 u-url: techtea.io
 description: TechTea is here to help you navigate the world of technology.
 ---
