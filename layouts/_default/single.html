@@ -1,0 +1,15 @@
+{{ define "main" -}}
+<article class="post h-entry ">
+  {{ partial "post/info.html" . }}
+  <div class="e-content">
+    {{ .Content }}
+  </div>
+  {{ partial "post/navigation.html" . }}
+  {{ if or (.Site.Params.remark42) (.Site.DisqusShortname) }}
+    {{ partial "post/comments.html" . }}
+  {{ end }}
+</article>
+{{- end }}
+{{ define "sidebar" }}
+  {{ partial "table_of_contents.html" . }}
+{{ end }}
