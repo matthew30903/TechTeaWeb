@@ -92,6 +92,7 @@ pluralizelisttitles = false
     series = 'series'
     tags = 'tags'
     category = "categories"
+    author = "authors"
 
 [sitemap]
   changefreq = "weekly"
