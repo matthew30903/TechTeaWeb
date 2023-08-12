@@ -1,0 +1,11 @@
+.p-author{
+    border-bottom: solid;
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+.u-photo{
+    max-width: 10%;
+    margin-right: 5px;
+}
