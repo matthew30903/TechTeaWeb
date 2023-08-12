@@ -1,11 +1,13 @@
-<div class="h-card">
-    <span class="p-name">{{ .Params.p_given_name}} {{ .Params.p_family_name}}</span>
-    <span class="p-given-name" hidden="true">{{ .Params.p_given_name}}</span>
-    <span class="p-family-name" hidden="true">{{ .Params.p_family_name}}</span></span>
+<div class="h-card p-author">
     {{ if .Params.photo }}
         <img class="u-photo" src="{{.Params.photo}}"/>
     {{ end }}
-    <a class="u-url" href="{{.Params.u_url}}">w</a>,
-    <a class="u-email" href="mailto:{{.Params.u_email}}">e</a>
-    <div class="u-note">{{.Params.p_note}}</div>
+    <div class="h-card-info">
+        <span class="p-name">{{ .Params.p_given_name}} {{ .Params.p_family_name}}</span>
+        <span class="p-given-name" hidden="true">{{ .Params.p_given_name}}</span>
+        <span class="p-family-name" hidden="true">{{ .Params.p_family_name}}</span></span>
+        <a class="u-url" href="{{.Params.u_url}}">Website</a>,
+        <a class="u-email" href="mailto:{{.Params.u_email}}">Email</a>
+        <div class="u-note">{{.Params.p_note}}</div>
+    </div>
 </div>

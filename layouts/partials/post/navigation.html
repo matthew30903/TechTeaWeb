@@ -9,6 +9,14 @@
         {{ end }}
     </ul>
     {{ end }}
+
+    <p>Author: </p>
+    {{- range .Params.authors }}
+        {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
+        {{ partial "h-card.html" . }}
+        {{ end }}
+    {{ end }}
+
     {{ if .Params.series }}
     {{ $Site := .Site }}
     {{ $postTitle := .Title }}
