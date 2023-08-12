@@ -2,7 +2,8 @@
 title: "2023 Website Update"
 date: 2023-08-04T09:48:27-07:00
 draft: false
-author: Matthew Lamont
+authors: 
+- "Matthew Lamont"
 categories:
 - Website Update
 featuredImage: 

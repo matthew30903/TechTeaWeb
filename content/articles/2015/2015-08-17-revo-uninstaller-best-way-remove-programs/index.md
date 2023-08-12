@@ -1,5 +1,6 @@
 ---
-author: Matthew
+authors: 
+- "Matthew Lamont"
 categories:
 - Windows
 date: "2015-08-17T12:12:25Z"

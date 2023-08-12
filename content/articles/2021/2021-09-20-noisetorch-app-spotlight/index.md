@@ -1,5 +1,6 @@
 ---
-author: Matthew
+authors: 
+- "Matthew Lamont"
 categories:
 - App Spotlight
 - Linux

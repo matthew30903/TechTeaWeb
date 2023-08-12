@@ -2,7 +2,8 @@
 title: Open Source Productivity Tools to Organize Your Life
 date: 2023-05-09T17:45:59Z
 draft: false
-author: Matthew
+authors: 
+- "Matthew Lamont"
 categories:
   - App Spotlight
   - Tech Tips

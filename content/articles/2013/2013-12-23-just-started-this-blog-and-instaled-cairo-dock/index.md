@@ -1,5 +1,6 @@
 ---
-author: Matthew
+authors: 
+- "Matthew Lamont"
 categories:
 - Uncategorized
 date: "2013-12-23T05:45:09Z"

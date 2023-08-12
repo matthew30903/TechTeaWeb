@@ -1,5 +1,6 @@
 ---
-author: Matthew
+authors: 
+- "Matthew Lamont"
 categories:
 - Introduction to Computers
 date: "2016-08-23T15:42:21Z"

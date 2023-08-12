@@ -1,5 +1,6 @@
 ---
-author: Matthew
+authors: 
+- "Matthew Lamont"
 categories:
 - Year Review
 date: "2021-01-01T19:33:31Z"

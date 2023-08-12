@@ -1,5 +1,6 @@
 ---
-author: Matthew
+authors: 
+- "Matthew Lamont"
 categories:
 - Tech Tips
 date: "2014-02-05T04:28:42Z"

@@ -1,6 +1,7 @@
 ---
 title: Test Linux in a Virtual Machine
-author: Matthew
+authors: 
+- "Matthew Lamont"
 date: 2022-02-03T11:32:16Z
 draft: false
 categories:

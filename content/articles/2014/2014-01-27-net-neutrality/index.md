@@ -1,5 +1,6 @@
 ---
-author: Matthew
+authors: 
+- "Matthew Lamont"
 categories:
 - Philosophy
 date: "2014-01-27T00:32:41Z"

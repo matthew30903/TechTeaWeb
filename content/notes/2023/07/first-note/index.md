@@ -2,7 +2,8 @@
 title: "First Note"
 date: 2023-07-25T11:02:53-07:00
 draft: false
-author: Matthew Lamont
+authors: 
+- "Matthew Lamont"
 categories: 
 tags:
 slug: first-note
