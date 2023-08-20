@@ -23,7 +23,7 @@ Recommended Brew Time ⏱️: 3-4 Minutes
 Recommended Amount 🌿: 5g (2 tsp) per 6 Ounces Water
 
 Brand: Sugi Moto Tea  
-Type of Tea: Green - Gyokuro
+Type of Tea: Green - Gyokuro  
 Price: $50 USD  
 Package Size: 227g (.5 lb)
 
