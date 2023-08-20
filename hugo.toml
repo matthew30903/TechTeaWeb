@@ -10,7 +10,7 @@ pluralizelisttitles = false
     # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
     description = "Tech Made Simple" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
-    # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
+    favicon = "/img/people/matthew_lamont.jpg"             # path to favicon (defaults to favicon.png)
 
     # MENU PLACEHOLDER
     # Menu dict keys:
