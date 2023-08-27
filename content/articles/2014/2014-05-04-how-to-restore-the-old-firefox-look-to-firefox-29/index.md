@@ -8,7 +8,7 @@ tags:
 - Cross-Platform
 - Customization
 - Firefox
-- Firefox Addons
+- Firefox Tweaks
 title: How to Restore the Old Firefox Look to Firefox 29
 aliases:
   - /how-to-restore-the-old-firefox-look-to-firefox-29/

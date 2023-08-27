@@ -8,7 +8,7 @@ title: Installing the Windows 10 Creator Update | A Guide
 aliases:
   - /installing-windows-10-creator-update/
 tags:
-- Windows 10
+- Windows
 slug: /installing-windows-10-creator-update/
 ---
 

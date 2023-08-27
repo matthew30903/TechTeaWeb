@@ -8,11 +8,10 @@ categories:
 date: "2021-01-14T13:00:00Z"
 featuredImage: ./img/FOSS-feature-image.png
 tags:
-- Free Software
-- Freedom
+- FOSS
+- Digital Freedom
 - Open Source
 - Philosophy
-- Privacy
 title: What is Free and Open Source Software (FOSS)?
 aliases:
   - /what-is-free-and-open-source-software-foss/

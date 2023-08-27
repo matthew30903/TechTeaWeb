@@ -7,10 +7,7 @@ date: "2021-10-22T09:18:12Z"
 featuredImage: ./img/SugarCubeMacrosCoverImage.png
 tags:
 - Cross-Platform
-- Development
 - FOSS
-- Free Software
-- Game Design
 - Game Dev
 - Open Source
 - Tutorials

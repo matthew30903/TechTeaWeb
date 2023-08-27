@@ -8,7 +8,6 @@ date: 2022-01-15T13:48:07Z
 featuredImage: ./img/meta_is_evil_featured_image.png
 tags:
   - Digital Freedom
-  - Facebook
   - Philosophy
 title: Meta's Metaverse is Evil
 aliases:

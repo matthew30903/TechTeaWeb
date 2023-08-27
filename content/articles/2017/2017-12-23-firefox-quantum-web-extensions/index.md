@@ -5,10 +5,8 @@ categories:
 - Philosophy
 date: "2017-12-23T09:00:18Z"
 tags:
-- Computer
 - Cross-Platform
 - Firefox
-- Firefox Addons
 - FOSS
 - Open Source
 title: Firefox Quantum and Web Extensions

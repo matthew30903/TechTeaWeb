@@ -5,12 +5,8 @@ categories:
 - Introduction to Computers
 date: "2016-08-23T15:42:21Z"
 tags:
-- Gmail
-- Google
-- Internet
 - Tutorials
 - Windows
-- Windows 10
 title: Google and Email | Introduction to Computers
 aliases:
   - /google-introduction-to-computers/

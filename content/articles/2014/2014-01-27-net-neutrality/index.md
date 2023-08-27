@@ -5,8 +5,7 @@ categories:
 - Philosophy
 date: "2014-01-27T00:32:41Z"
 tags:
-- Freedom
-- Internet
+- Digital Freedom
 - Net Neutrality
 title: Net Neutrality
 aliases:

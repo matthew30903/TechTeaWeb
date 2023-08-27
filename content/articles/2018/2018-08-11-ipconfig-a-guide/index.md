@@ -7,9 +7,9 @@ categories:
 date: "2018-08-11T18:02:46Z"
 tags:
 - Command Line
-- ipconfig
-- Maintenance
+- Computer Maintenance
 - Windows
+- Tutorials
 title: ipconfig | A Guide
 aliases:
   - /ipconfig-a-guide/

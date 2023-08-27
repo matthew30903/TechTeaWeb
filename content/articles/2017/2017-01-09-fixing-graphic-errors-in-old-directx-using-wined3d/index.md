@@ -5,10 +5,10 @@ categories:
 - Windows
 date: "2017-01-09T15:53:21Z"
 tags:
-- Free Software
+- FOSS
 - Open Source
 - Tutorials
-- Windows 10
+- Windows
 title: Fixing Graphic Errors in old DirectX using WineD3D
 aliases:
   - /fixing-graphic-errors-in-old-directx-using-wined3d/

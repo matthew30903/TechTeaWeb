@@ -8,7 +8,6 @@ categories:
 date: "2016-01-19T10:33:55Z"
 tags:
 - Windows
-- Windows 10
 title: Introduction to Computers
 aliases:
   - /introduction-to-computers/

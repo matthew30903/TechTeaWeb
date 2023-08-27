@@ -8,12 +8,8 @@ date: "2014-11-09T22:13:24Z"
 tags:
 - Bittorrent
 - Cross-Platform
-- Free Software
-- Linux
-- Mac
+- FOSS
 - Open Source
-- Torrent
-- Windows
 title: Introduction to BitTorrent
 aliases:
   - /introduction-bittorrent/

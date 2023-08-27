@@ -8,11 +8,10 @@ date: "2021-05-03T14:26:53Z"
 featuredImage: ./img/TwineIntro0_Cover.png
 tags:
 - Cross-Platform
-- Development
 - FOSS
-- Free Software
-- Game Design
+- Game Dev
 - Open Source
+- Tutorials
 - Twine Game
 series: "Intro to Twine"
 title: 'Twine: A Game Engine for Interactive Fiction'

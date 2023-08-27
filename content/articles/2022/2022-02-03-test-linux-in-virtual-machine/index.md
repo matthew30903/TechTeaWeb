@@ -9,11 +9,11 @@ categories:
   - Tech Tips
 featuredImage: ./img/linux_in_virtual_box_featured_image.png
 tags:
-  - Free Software
+  - FOSS
   - Linux
   - Open Source
   - Virtual Machine
-  - VirtualBox
+  - Tutorials
 slug: /test-linux-in-virtual-machine/
 aliases:
   - /test-linux-in-virtual-machine/

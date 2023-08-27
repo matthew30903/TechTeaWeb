@@ -5,9 +5,7 @@ categories:
 - Windows
 date: "2015-08-17T12:12:25Z"
 tags:
-- Computer Repair
-- Free Software
-- Repair
+- Computer Maintenance
 - Windows
 title: 'Revo Uninstaller: The Best Way to Remove Programs'
 aliases:

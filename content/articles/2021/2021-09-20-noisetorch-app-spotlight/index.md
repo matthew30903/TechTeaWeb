@@ -8,10 +8,10 @@ categories:
 date: "2021-09-20T07:41:00Z"
 featuredImage: ./img/noiseTorch_Select_CoverImage.jpeg
 tags:
-- Audio
-- Free Software
+- FOSS
 - Linux
 - Open Source
+- App Spotlight
 title: NoiseTorch | App Spotlight
 aliases:
   - /noisetorch-app-spotlight/

@@ -7,10 +7,13 @@ categories:
 date: "2020-11-04T11:30:00Z"
 featuredImage: ./img/choco_GUIFeaturedImage.png
 tags:
-- Free Software
+- Command Line
+- FOSS
 - Open Source
 - Productivity
 - Windows
+- Tutorials
+- App Spotlight
 title: Chocolatey GUI | Chocolatey for the Average User
 aliases:
   - /chocolatey-gui/

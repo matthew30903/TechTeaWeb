@@ -5,10 +5,11 @@ categories:
 - Windows
 date: "2016-01-02T12:00:00Z"
 tags:
-- Free Software
+- FOSS
+- Website Updates
 - Open Source
 - Productivity
-- Windows 10
+- Windows
 title: 'Plan for 2016: Introduction to Computers'
 aliases:
   - /plan-for-2016-introduction-to-computers/

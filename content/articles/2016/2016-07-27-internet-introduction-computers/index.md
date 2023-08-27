@@ -7,10 +7,9 @@ categories:
 date: "2016-07-27T15:41:50Z"
 tags:
 - Firefox
-- Free Software
-- Internet
+- FOSS
 - Windows
-- Windows 10
+- Tutorials
 title: The Internet and Software | Introduction to Computers
 aliases:
   - /internet-introduction-computers/

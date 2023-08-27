@@ -6,7 +6,8 @@ categories:
 - RPG Maker MV
 date: "2018-11-13T11:20:52Z"
 tags:
-- RPG MakerMV
+- RPG Maker MV
+- Game Dev
 title: Creating a RPG Maker Project | RPG Maker MV
 aliases:
   - /creating-rpg-maker-project/

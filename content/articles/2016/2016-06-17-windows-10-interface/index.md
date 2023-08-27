@@ -4,6 +4,9 @@ authors:
 categories:
 - Introduction to Computers
 - Windows
+tags:
+- Tutorials
+- Windows
 date: "2016-06-17T19:33:43Z"
 title: Windows 10 Interface | Introduction to Computers
 aliases:

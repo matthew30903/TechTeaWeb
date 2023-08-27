@@ -9,10 +9,10 @@ description: Logseq is a powerful open source PKM system and note taking app tha
 tags:
   - Cross-Platform
   - FOSS
-  - Free Software
   - Logseq
   - Open Source
   - Productivity
+  - App Spotlight
 categories:
   - App Spotlight
   - Tech Tips

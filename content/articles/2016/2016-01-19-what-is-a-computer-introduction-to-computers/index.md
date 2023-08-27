@@ -6,7 +6,6 @@ categories:
 date: "2016-01-19T10:38:37Z"
 tags:
 - Computer History
-- Raspberry Pi
 title: What is a Computer? | Introduction to Computers
 aliases:
   - /what-is-a-computer-introduction-to-computers/

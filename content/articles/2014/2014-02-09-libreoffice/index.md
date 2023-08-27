@@ -8,6 +8,8 @@ tags:
 - Cross-Platform
 - LibreOffice
 - Open Source
+- App Spotlight
+- FOSS
 title: LibreOffice
 aliases:
   - /libreoffice/

@@ -8,10 +8,10 @@ date: "2020-10-22T20:21:34Z"
 featuredImage: ./img/openSourceAnrdroid_featuredImage.png
 tags:
 - Android
-- Firefox
-- Free Software
+- FOSS
 - Open Source
 - Productivity
+- App Spotlight
 title: Open Source Alternatives to Common Android Apps
 aliases:
   - /open-source-alternatives-to-common-android-apps/

@@ -8,10 +8,12 @@ date: "2020-09-20T12:30:00Z"
 featuredImage: ./img/choco_CLIFeaturedImage-1.png
 tags:
 - Command Line
-- Free Software
+- FOSS
 - Open Source
 - Productivity
 - Windows
+- Tutorials
+- App Spotlight
 title: Chocolatey Package Manager for Windows
 aliases:
   - /chocolatey-package-manager-for-windows/

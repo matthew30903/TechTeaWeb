@@ -5,10 +5,7 @@ categories:
 - Tech Tips
 date: "2014-06-26T00:37:10Z"
 tags:
-- Computer Repair
-- Free Software
-- Maintenance
-- Repair
+- Computer Maintenance
 title: Basic Computer Maintenance Tools
 aliases:
   - /basic-computer-maintenance-tools/

@@ -9,7 +9,7 @@ tags:
 - Cross-Platform
 - Firefox
 - Firefox Tweaks
-- Free Software
+- FOSS
 - Open Source
 title: 'Quick Tip: How to Use the Old Search Box in Firefox 34 or Later'
 aliases:

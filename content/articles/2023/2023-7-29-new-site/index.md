@@ -8,7 +8,7 @@ categories:
 - Website Update
 featuredImage: 
 tags: 
-- "Website Update"
+- Website Updates
 slug: /website-update
 keywords: 
 - WordPress

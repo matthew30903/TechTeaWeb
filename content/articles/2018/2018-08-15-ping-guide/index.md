@@ -8,11 +8,9 @@ categories:
 date: "2018-08-15T12:00:19Z"
 tags:
 - Command Line
-- Cross-Platform
-- Internet
-- Linux
-- Tutorials
+- Computer Maintenance
 - Windows
+- Tutorials
 title: ping | A Guide
 aliases:
   - /ping-guide/

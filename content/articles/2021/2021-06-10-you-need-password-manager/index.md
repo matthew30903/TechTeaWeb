@@ -9,9 +9,8 @@ featuredImage: ./img/you_need_passwrd_manager_feature.png
 tags:
 - Cross-Platform
 - FOSS
-- Free Software
 - Open Source
-- security
+- Security
 title: Why You Need a Password Manager
 aliases:
   - /you-need-password-manager/

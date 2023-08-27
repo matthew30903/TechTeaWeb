@@ -6,9 +6,8 @@ categories:
 date: "2016-09-06T11:00:22Z"
 tags:
 - Firefox
-- Firefox Addons
 - Firefox Tweaks
-- Free Software
+- FOSS
 - Tutorials
 title: Customizing Firefox
 aliases:

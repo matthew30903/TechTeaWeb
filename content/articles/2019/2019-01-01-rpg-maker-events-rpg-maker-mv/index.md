@@ -6,10 +6,9 @@ categories:
 - RPG Maker MV
 date: "2019-01-01T12:00:29Z"
 tags:
-- Game Design
-- RPG MakerMV
+- Game Dev
+- RPG Maker MV
 - Tutorials
-- Video Games
 title: RPG Maker Events | RPG Maker MV
 aliases:
   - /rpg-maker-events-rpg-maker-mv/

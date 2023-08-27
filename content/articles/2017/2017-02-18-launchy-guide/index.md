@@ -6,12 +6,9 @@ categories:
   - App Spotlight
 date: 2017-02-18T14:09:17Z
 tags:
-  - Computer
   - Cross-Platform
-  - Keyboard Shortcuts
-  - launchy
-  - Linux
-  - Mac
+  - FOSS
+  - Open Source
   - Tutorials
   - Windows
 title: How to use Launchy | A Guide

@@ -7,7 +7,7 @@ categories:
 date: "2014-01-10T19:11:08Z"
 tags:
 - Cross-Platform
-- launchy
+- FOSS
 - Open Source
 - Windows
 title: 'Launchy: A Better Way to Luanch Programs'

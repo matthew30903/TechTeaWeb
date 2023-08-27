@@ -10,7 +10,7 @@ categories:
 featuredImage: ./img/open_source_productivity_apps_cover_image.jpg
 tags:
   - Cross-Platform
-  - Free Software
+  - FOSS
   - Logseq
   - Nextcloud
   - Note Taking
@@ -18,6 +18,7 @@ tags:
   - Productivity
   - RSS
   - Thunderbird
+  - App Spotlight
 aliases:
   - /open-source-productivity-tools-organize-your-life/
 slug: /open-source-productivity-tools-organize-your-life/

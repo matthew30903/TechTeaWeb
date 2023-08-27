@@ -7,8 +7,9 @@ date: "2014-02-05T04:28:42Z"
 tags:
 - Cross-Platform
 - Firefox
-- Firefox Addons
+- Firefox Tweaks
 - Open Source
+- FOSS
 title: Firefox Extensions I Use Regularly
 aliases:
   - /2014-02-05-26-firefox-extensions-i-use-regularly/

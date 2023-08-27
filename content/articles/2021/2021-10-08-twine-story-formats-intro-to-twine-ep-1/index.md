@@ -8,10 +8,7 @@ date: "2021-10-08T11:33:47Z"
 featuredImage: ./img/StoryFormatsThunb.png
 tags:
 - Cross-Platform
-- Development
 - FOSS
-- Free Software
-- Game Design
 - Game Dev
 - Open Source
 - Tutorials

@@ -8,6 +8,8 @@ date: "2021-08-22T08:57:40Z"
 featuredImage: ./img/whyUseLinuxFeature.jpeg
 tags:
 - Open Source
+- FOSS
+- Digital Freedom
 title: Why You Should Use Linux?
 aliases:
   - /why-you-should-use-linux/

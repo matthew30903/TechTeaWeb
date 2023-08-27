@@ -7,7 +7,6 @@ categories:
 date: 2022-01-01T17:20:27Z
 featuredImage: ./img/readDoc_featureImage.png
 tags:
-  - Computer
   - Productivity
   - Tutorials
 title: Reading Documentation | Finding Answers Online

@@ -8,9 +8,8 @@ tags:
 - Cross-Platform
 - Customization
 - Firefox
-- Firefox Addons
 - Firefox Tweaks
-- Open Source
+- FOSS
 - Tutorials
 title: Firefox Personas | Make Firefox Your Own
 aliases:

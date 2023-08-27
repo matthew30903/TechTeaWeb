@@ -6,9 +6,8 @@ categories:
 - Windows
 date: "2016-03-09T10:53:36Z"
 tags:
-- Philosophy
 - Tutorials
-- Windows 10
+- Windows
 title: Installing Windows 10 | Introduction to Computers
 aliases:
   - /installing-windows-10-intro-computers/

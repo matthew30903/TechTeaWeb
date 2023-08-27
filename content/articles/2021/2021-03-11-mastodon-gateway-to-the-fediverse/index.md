@@ -8,8 +8,9 @@ featuredImage: ./img/mastodon_featured_image.png
 tags:
 - Cross-Platform
 - Fediverse
+- App Spotlight
 - FOSS
-- Freedom
+- Digital Freedom
 - Open Source
 title: Mastodon | Gateway to the Fediverse
 aliases:

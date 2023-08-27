@@ -8,10 +8,9 @@ date: "2018-03-20T14:26:15Z"
 guid: https://www.blog.mattlamont.com/?p=484
 id: 484
 tags:
-- Development
-- Game Design
+- RPG Maker MV
+- Game Dev
 - Tutorials
-- Video Games
 title: Let's Make a Video Game | RPG Maker MV
 aliases:
   - /make-video-game-rpg-maker-mv/
