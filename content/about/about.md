@@ -18,6 +18,17 @@ We are dedicated to free and open source software as a solution for everyone. Pr
 
 TechTea is here to help make tech work for you, not billion dollar companies.
 
+## More Info
+
+I'm slowly expanding this website with extra pages and interesting links inspired by other personal websites.
+
+[Stuff I Use](/uses/) - A small list of the hardware and software that I use for my everyday life.  
+[Reviews](/reviews) - My thoughts on all sorts of things. Lots of tea, but will also include places, hardware, software, and books eventually.  
+[Articles](/articles) - My blog for longer form content. I've been writing off and on since 2013 so there is a lot there and some of questionable quality.  
+[Notes](/notes) - Notes are for anything that doesn't require a full long form article, but I still want to say. I've never been into short form content, but I thought I'd give it a try.
+
+## License
+
 All written content on TechTea is is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). If you wish to share or otherwise use the content of the blog commercially like in a LLM AI model, textbook, or YouTube video please contact us.
 
 ## Support TechTea
