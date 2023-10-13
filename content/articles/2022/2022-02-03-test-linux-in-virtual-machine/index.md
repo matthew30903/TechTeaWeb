@@ -41,7 +41,7 @@ Once you open it you will see something similar to this:
 
 You will see that I already have two Linux virtual machines, but we can add one more. 
 
-To create a Virtual Machine we first need to download a disk image of the Linux distribution we want to test. So for this example, we will [download Linux Mint](https://linuxmint.com"), a great beginner-friendly Linux.
+To create a Virtual Machine we first need to download a disk image of the Linux distribution we want to test. So for this example, we will [download Linux Mint](https://linuxmint.com), a great beginner-friendly Linux.
 
 After downloading the Linux Mint ICO file we can start making our new VM.
 
