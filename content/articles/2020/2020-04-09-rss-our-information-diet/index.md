@@ -67,7 +67,7 @@ Click on your account folder to add and manage feed subscriptions. It's rather s
 
 You can click on the Plus icon to add a new article to your feed in Quiet. Then select Next to pick a folder to store your feed in.
 
-You can add Random Thought's RSS feed using this URL: <a rel="noreferrer noopener" href="https://www.blog.mattlamont.com/feed/" target="_blank">https://www.blog.mattlamont.com/feed/</a>
+You can add Random Thought's RSS feed using this URL: <a rel="noreferrer noopener" href="https://techtea.io/index.xml" target="_blank">https://techtea.io/index.xml</a>
 
 ## Filtering Messages
 
