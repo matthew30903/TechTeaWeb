@@ -8,10 +8,10 @@ slug: /matthew-lamont
 p_given_name: "Matthew"
 p_family_name: "Lamont"
 u_email: "dev@mattlamont.com"
-p_note: "Creator of this website. I'm a tech enthusiast, advocate for personal digital seventy, and strong supporter of FOSS Software."
+p_note: "Creator of this website. I'm a tech enthusiast, advocate for personal digital sovereignty, and strong supporter of FOSS Software."
 photo: /img/people/matthew_lamont.jpg
 u-url: techtea.io
 description: TechTea is here to help you navigate the world of technology.
 ---
 
-Creator of this website. I'm a tech enthusiast, advocate for personal digital seventy, and strong supporter of FOSS Software. 
+Creator of this website. I'm a tech enthusiast, advocate for personal digital sovereignty, and strong supporter of FOSS Software. 
