@@ -10,7 +10,7 @@ featuredImage:
 tags:
   - Indie Web
   - Web Dev
-slug: /2023-10-24-how-run-this-website-for-free/
+slug: /how-run-this-website-for-free/
 keywords:
   - Free Website
 description: Nothing in life is free, but we can get really close to it.
