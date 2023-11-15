@@ -25,7 +25,7 @@ A lot of blogs I follow seem to be posting their default applications they use a
 📁 Cloud File Storage: [Nextcloud](https://nextcloud.com) running on TrueNAS Core  
 📖 RSS: [Nextcloud News](https://apps.nextcloud.com/apps/news)  
 🙍🏻‍♂️ Contacts: [Nextcloud Contacts](https://apps.nextcloud.com/apps/contacts) for Server / [KAddressBook](https://apps.kde.org/kaddressbook/) and [Thunderbird](https://www.thunderbird.net) on Desktop / Simple Contacts on Android  
-🌐 Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Vivaldi](https://vivaldi.com) Note that Vivaldi is not entirely open source, the UI is completely propietary.  
+🌐 Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Vivaldi](https://vivaldi.com) Note that Vivaldi is not entirely open source, the UI is completely proprietary.  
 💬 Chat: [Signal](https://www.signal.org) / Discord Website (I'm not installing their spyware)  
 🔖 Bookmarks: Notebook / [Omnivore](https://omnivore.app)  
 📑 Read It Later: Notebook / [Omnivore](https://omnivore.app)  
