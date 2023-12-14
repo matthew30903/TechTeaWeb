@@ -18,7 +18,7 @@ brand: "Vahdam Teas"
 
 ## Info
 
-Recommended Temp 🌡️: 90 - 100 °C  
+Recommended Temp 🌡️: 90 - 100°C  
 Recommended Brew Time ⏱️: 3-4 Minutes  
 Recommended Amount 🌿: 2g per 200ml water
 
@@ -37,7 +37,7 @@ Score: 7/10
 
 ## My Brewing Method
 
-Temp🌡️: 90 °C  
+Temp🌡️: 90°C  
 Brew Time⏱️: 3 minute
 
 I filled a warm cup about half way with freshly heated water and then submerged the tea bag into the water. Then I filled the cup the rest of the way. I occasionally moved the tea bag as it brewed to help spread the flavor.

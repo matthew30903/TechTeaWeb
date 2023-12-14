@@ -18,7 +18,7 @@ brand: "Sugi Moto Tea"
 
 ## Info
 
-Recommended Temp 🌡️: 120 - 140 °F  
+Recommended Temp 🌡️: 120 - 140°F  
 Recommended Brew Time ⏱️: 3-4 Minutes  
 Recommended Amount 🌿: 5g (2 tsp) per 6 Ounces Water
 
@@ -41,7 +41,7 @@ Score: 8/10
 
 ## My Brewing Method
 
-Temp🌡️: 53 °C  
+Temp🌡️: 53°C  
 Brew Time⏱️: 3 minute
 
 I filled a warm cup about half way with freshly heated water and then submerged the leaves in a tea basket. Then filled the cup the rest of the way, lightly poring over the leaves as I filled the cup. When brewing green teas I often avoid poring water directly over the leaves or only lightly pore water over them and focus on the sides of the cup or tea bowl. I also found that using slightly less than the recommend amount of leaves was the best as putting in the whole 5g made it too strong and bitter. 
