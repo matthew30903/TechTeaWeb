@@ -9,3 +9,16 @@
     max-width: 10%;
     margin-right: 5px;
 }
+
+.entries li {
+    display: flex;
+    margin-bottom:1em !important;
+}
+
+.inline-svg {
+    display: inline-block;
+    height: 1.15rem;
+    width: 1.15rem;
+    top: 0.15rem;
+    position: relative;
+  }

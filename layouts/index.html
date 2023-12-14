@@ -2,15 +2,25 @@
 
 {{ .Content }}
 <div class="posts">
-    {{ range (.Paginate (where .Site.RegularPages "Type" "articles")).Pages }}
-    <article class="post">
-        {{ partial "post/info.html" . }}
-        {{ .Summary }}
-        {{ if .Truncated }}
-        <div class="read-more-link">
-            <a href="{{ .RelPermalink }}">Read More…</a>
-        </div>
-        {{ end }}
+    {{ range (where .Site.RegularPages "Type" "in" (slice "articles" "notes" "reviews")) }}
+    <article class="entries homepage">
+        <li>
+            {{ if eq .Type "articles"}}
+                {{ partial "svg.html" "book" }}
+            {{ else if eq .Type "notes"}}
+                {{ partial "svg.html" "sticky-note" }}
+            {{ else if eq .Type "reviews"}}
+                {{ partial "svg.html" "star-half-stroke" }}
+            {{ end }}
+
+            <span class="title">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </span>
+            <span class="published">
+                <time class="pull-right post-list">{{ .Date | time.Format ":date_long" }}</time>
+            </span>
+        </li>
+    
     </article>
     {{- end }}
 </div>
