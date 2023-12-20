@@ -19,8 +19,9 @@ pluralizelisttitles = false
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "Articles", URL = "/articles/", Pre = "Recent", HasChildren = true, Limit = 5},
+        {Name = "Articles", URL = "/articles/", Pre = "Recent", HasChildren = false, Limit = 0},
         {Name = "Notes", URL = "/notes/", Pre = "Recent", HasChildren = false, Limit = 0},
+        {Name = "Reviews", URL = "/reviews/", Pre = "Recent", HasChildren = false, Limit = 0},
         {Name = "Tags", URL = "/tags/", Pre = "Recent", HasChildren = false, Limit = 0},
         {Name = "About", URL = "/about/", HasChildren = false},
     ]
