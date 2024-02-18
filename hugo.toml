@@ -16,6 +16,7 @@ pluralizelisttitles = false
     # Menu dict keys:
         # Name:         The name to display on the menu.
         # URL:          The directory relative to the content directory.
+        # Pre:          Text to Display above Children.
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
