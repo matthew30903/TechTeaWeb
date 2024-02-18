@@ -4,11 +4,15 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
 
+
 <!-- create a list with all uppercase letters -->
 {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
 
 <!-- range all pages sorted by their title -->
-{{ range sort .Site.Taxonomies.tags }}
+{{- $type := .Type }}
+{{- range $key, $value := .Data.Terms.Alphabetical }}
+{{- $name := .Name }}
+{{- $count := .Count }}
   <!-- get the first character of each title. Assumes that the title is never empty! -->
   {{ $firstChar := substr .Page.Title 0 1 | upper }}
 
