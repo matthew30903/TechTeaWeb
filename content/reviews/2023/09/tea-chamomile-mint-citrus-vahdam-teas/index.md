@@ -10,24 +10,20 @@ tags:
 - Tea
 slug: tea-chamomile-mint-citrus-vahdam-teas
 keywords: 
-description: Chamomile Mint Citrus by Vahdam Teas is a great green tea that I recommend.
-review-type:
-- Tea
-brand: "Vahdam Teas"
+description: Chamomile Mint Citrus by Vahdam Teas is a great mint green tea that I recommend.
+location_obtained: Sipsby Tea Discovery Box. Sipsby is a great service for discovering new teas. I'll write a review sometime in the future.
+affiliate: false
+review_type: Tea
+brands: "Vahdam Teas"
+teas: 
+    - Green
+
+price: "$19.99"
+_weight: "7.06 oz"
+temperature: "90 - 100°C "
+brewtime: "3-4 Minutes"
 ---
 
-## Info
-
-Recommended Temp 🌡️: 90 - 100°C  
-Recommended Brew Time ⏱️: 3-4 Minutes  
-Recommended Amount 🌿: 2g per 200ml water
-
-Brand: Vahdam Teas  
-Type of Tea: Green 
-Price: $19.99 USD  
-Package Size: 7.06 oz
-
-Where I got it: Sipsby Tea Discovery Box. Sipsby is a great service for discovering new teas. I'll write a review sometime in the future.
 
 ## Thoughts
 

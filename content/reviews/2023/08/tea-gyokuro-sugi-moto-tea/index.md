@@ -10,27 +10,19 @@ tags:
 - Tea
 slug: gyokuro-sugi-moto-tea
 keywords:
-description: One of the less the cheaper gyokuro teas. It is a good tea, but not the best.
-review-type:
-- Tea
-brand: "Sugi Moto Tea"
+description: A decent Gyokuro. I liked it alright, but brewing instructions were not the greatest and it was easy to brew bitter.
+location_obtained: Utsuwa-No-Yakata in the Little Tokyo district of Los Angeles, CA
+affiliate: false
+review_type: Tea
+brands: "Sugi Moto Tea"
 price: $50
-weight: 227g
-temprature: 120 - 140°F
-brew-time: 3-4 Minutes
+_weight: 227g (.5 lb)
+temperature: 120 - 140°F
+brewtime: 3-4 Minutes
+teas: 
+    - Green
+    - Gyokuro
 ---
-
-## Info
-
-Recommended Temp 🌡️: 120 - 140°F  
-Recommended Brew Time ⏱️: 3-4 Minutes  
-
-Brand: Sugi Moto Tea  
-Type of Tea: Green - Gyokuro  
-Price: $50 USD  
-Package Size: 227g (.5 lb)
-
-Where I got it: Utsuwa-No-Yakata in the Little Tokyo district of Los Angeles, CA
 
 ## Thoughts
 

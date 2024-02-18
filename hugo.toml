@@ -95,6 +95,8 @@ pluralizelisttitles = false
     tags = 'tags'
     category = "categories"
     author = "authors"
+    brand = "brands"
+    tea = "teas"
 
 [sitemap]
   changefreq = "weekly"

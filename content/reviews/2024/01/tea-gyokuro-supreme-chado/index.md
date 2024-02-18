@@ -1,36 +1,30 @@
 ---
 title: "Gyokuro Supreme by Chado"
-date: 2024-01-105T11:02:53-07:00
+date: 2024-01-10T11:02:53-07:00
 draft: false
 authors: 
-- "Matthew Lamont"
+    - "Matthew Lamont"
 categories: 
-- Reviews
+    - Reviews
 tags: 
-- Tea
+    - Tea
 slug: gyokuro-supreme-chado
 keywords:
-description: Gyokuro is one of my favorite teas. This one is fairly decent, but not the best for the price.
-review-type:
-- Tea
-brand: "Chado"
-price: $51.90
-weight: 4oz
-temprature: 74°C - 82°C 
-brew-time: 1-3 Minutes
+description: Gyokuro is one of my favorite teas. This one is fairly decent, but not the best for the price. I'd say hunt for something else.
+location_obtained: Chado Tea Room in the Little Tokyo district of Los Angeles, CA
+affiliate: false
+review_type: Tea
+brands: "Chado"
+price: "$51.90"
+_weight: "4oz"
+temperature: "74°C - 82°C "
+brewtime: "1-3 Minutes"
+teas: 
+    - Green
+    - Gyokuro
 ---
 
-## Info
 
-Recommended Temp 🌡️: ~74°C - 82°C  
-Recommended Brew Time ⏱️: 1-3 Minutes  
-
-Brand: Chado  
-Type of Tea: Green - Gyokuro  
-Price: $51.90 USD  
-Weight: 4oz  
-
-Where I got it: Chado Tea Room in the Little Tokyo district of Los Angeles, CA
 
 ## Thoughts
 

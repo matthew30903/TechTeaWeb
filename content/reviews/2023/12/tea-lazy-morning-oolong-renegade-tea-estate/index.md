@@ -10,24 +10,24 @@ tags:
 - Tea
 slug: lazy-morning-renegade-tea
 keywords:
-description: "Lazy Morning is an amazing oolong tea with a strong flavor."
-review-type:
-- Tea
-brand: "Renegade Tea Estate"
+description: "Lazy Morning is an amazing oolong tea with a strong flavor. This is one tea I really loved."
+location_obtained: Sipsby Tea Discovery Box. 
+affiliate: false
+review_type: Tea
+brands: "Renegade Tea Estate"
+price: "$15.00"
+_weight: "50g"
+temperature: "176° F (80° C)"
+brewtime: "3-4 Minutes  "
+teas:
+    - Oolong
+
+
 ---
 
-## Info
 
-Recommended Temp 🌡️: 176° F (80° C)  
-Recommended Brew Time ⏱️: 3-4 Minutes  
-Recommended Amount 🌿: 1 tsp
 
-Brand: Renegade Tea Estate  
-Type of Tea: Oolong  
-Price: $15.00  
-Package Size: 50g
 
-Where I got it: Sipsby Tea Discovery Box. 
 
 ## Thoughts
 

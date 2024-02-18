@@ -22,3 +22,18 @@
     top: 0.15rem;
     position: relative;
   }
+
+.review-summary {
+     border-left: solid 4px #268bd2;
+     overflow: hidden;
+     padding: 6px;
+     
+}
+.review-summary li {
+    list-style-type: none;
+    
+}
+
+.review-description {
+    margin-bottom: 0em
+}
