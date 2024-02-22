@@ -98,7 +98,7 @@ I love anime, but it is hard to recommend a lot of it to non-anime watchers. The
 
 ### Sousou no Frieren (Frieren: Beyond Journey's End)
 
-This series follows ancient elf Frieren after she and a party of heros have defeated an evil demon lord. Years pass and the her party mates die one by one. Frieren doesn't really understanding till it is too late that she never really got to know them. Fifty years to her is but an instant while in that time her friends have passed away.
+This series follows ancient elf Frieren after she and a party of heros have defeated an evil demon lord. Years pass and the her party mates die one by one. Frieren doesn't really understanding the value of her relationship with them till it is too late. Fifty years to her is but an instant, while in that time her friends have passed away.
 
 Fast forward and Frieren and her apprentice travel along the same path she did with the party of heros on a mission to see those who have long passed on. Along the way she recounts her memories.
 
@@ -120,7 +120,7 @@ Also remember it is often illegal to throw away batteries so reusing these might
 
 This is an amazing channel that I discovered in January. Bobby Fingers made dioramas of several interesting situations like Mel Gibson's drunken arrest. He also made a photo realistic row boat in the shape of Jeff Bezos's head. 
 
-There is some real art and creativity in this channel. The attention to detail is great. His humor is a bit on the strange side, but what art is not?
+There is some real art and creativity in this channel. The attention to detail is great.
 
 ### [From Trash to Treasure: Recycle Cutlery into 3D Filament!](https://www.youtube.com/watch?v=nQ0UyWKafAw) by CNC Kitchen
 
