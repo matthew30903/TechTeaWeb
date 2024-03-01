@@ -5,7 +5,7 @@ authors:
 - "Matthew Lamont"
 draft: false
 tags:
-  - Monthly Review
+  - Monthly Favorites
 slug: /jan-favs/
 keywords:
   - favorite

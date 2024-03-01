@@ -6,6 +6,7 @@ authors:
 draft: false
 tags:
   - Website Updates
+  - Monthly Review
 slug: /february-update
 keywords:
   - Update
