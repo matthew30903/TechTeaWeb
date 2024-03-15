@@ -1,5 +1,5 @@
 ---
-title: "Into the IndieWeb"
+title: "Creating a Personal Website"
 draft: false
 keywords:
   - IndieWeb

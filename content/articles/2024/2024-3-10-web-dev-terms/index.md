@@ -11,8 +11,7 @@ slug: /web-dev-terms/
 keywords:
   - web development
 description: It is hard to know what you don't know. It is even harder to know when you don't have the right vocabulary to communicate with those who do know. Today we are going over some basic web vocabulary.
-series: Into the IndieWeb 
-weight: 1
+series: Creating a Personal Website
 ---
 
 It is hard to know what you don't know, especially when you don't have the words to communicate with the people who do know the thing you wish to learn.
@@ -22,6 +21,16 @@ Today I'm going to throw out some terms that I think are useful to know when bui
 For a general roadmap of learning to create your website I'd recommend looking at Mozilla's [Getting Started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) series. I will be linking to their tutorials at the end of relevant terms in this guide.
 
 These are ordered in terms of relevance to a new website owner rather than alphabetical. Let me know if you think something should be higher on the list or if this list would be more useful using another ordering scheme.
+
+## Domain Name and DNS
+
+One of the most important things you can own on the internet is a domain name. This is the address you see in your web browser when you go to a website. Not only does this let you have a name for your website on the internet, you can point it to any server you want. This means that even before you have a personal website you can redirect yourname.com to your other accounts in the meantime, giving you control over your own URLs. Your name will be put under a top level domain name (TLD) like .com, .org, or .xyz.
+
+When you get a domain name and point it at a server it updates the global Domain Name System (DNS) servers. These servers basically convert a human readable URL to the IP Address for a server. Technically you don't need a domain name to connect to a server and can connect to it via the IP address, but that becomes very hard for people to memorize.
+
+I highly recommend you look for your ideal name under a .com if possible as it has few restrictions and is well respected, but there are many top level domains available.
+
+You can usually purchase your domain name from your hosting provider or a dedicated domain name retailer like [Namecheap](https://www.namecheap.com).
 
 ## HTML (HyperText Markup Language)
 
