@@ -37,3 +37,13 @@
 .review-description {
     margin-bottom: 0em
 }
+
+/* Body with of articles on desktop */
+@media (min-width: 64em) {
+    .content {
+      max-width: 50rem;
+      margin-left: 1.75rem;
+      margin-right: 2rem;
+    }
+  }
+  
