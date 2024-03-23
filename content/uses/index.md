@@ -14,9 +14,19 @@ I use a lot of things to get my days done. Maybe you will find something interes
 
 ## Hardware
 
-### Workstation: ASUSE ROG Strix GL704GW
+### Workstation: System76 Thelio Major r4
 
-This device has served me well for many years. It currently is running EndeavourOS and does what is needed for my personal tasks. I would rather have a desktop at this point, but when I got it I did not have room for one. The flaws with this machine are the battery life, though that is an issue with all "gaming" computers. It is a stationary laptop that weighs too much to take with me anywhere and the battery will die if it is unplugged when I turn it on. It will be replaced soon though.
+The Thelio Major is a beautiful behemoth of a system. I saved up for a long time to upgrade from my old laptop and well now things are future proof for the time being.
+
+- Processor: AMD Ryzen 9 7950X 16-Core Processor
+- GPU: NVIDIA GeForce RTX 4080
+- RAM: 124.9 GiB
+- OS: EndeavorOS
+- Desktop Environment: KDE Plasma 6
+
+Could I have built a better system for less? Yes. Why didn't I? Because I've put together far too many computers over the years for friends and myself. It can be fun, but it is also a headache and an hour I could spend tinkering with the software instead. Also System76 invest a lot of time and money into the Linux ecosystem and I'd rather support them than Newegg or Amazon.
+
+You do pay a premium for something from System76, but they make nice systems.
 
 ### Desk: 72" x 30" V2 C-Frame desk from Uplift Desk
 
@@ -66,10 +76,10 @@ At the core I use NextCloud to sync my calendar, contacts, todo lists, and files
 
 TrueNAS Core: This is my main home server and NAS. It provides everything I need for the most part and I can spin up docker inside of a VM if I need more. I host my NextCloud server directly from a BSD Jail and have not had any problems with it.
 
-VSCodium: This is the fully open source binary of VSCode. It has all the features and none of the Microsoft spyware. It is an awesome text editor for my use case with good integrations and plugin support when you need it.
-
 GIMP: To think I used to use Photoshop (ew, I should probably write an article on why I hate Adobe with such passion). GIMP is what I use when I need to modify or make images. The only thing GIMP doesn't do is CMYK color and they are supposedly working on that. Once that is done there shouldn't be much other than education hold people back from escaping Adobe's claws.
 
 Kdenlive: My video editor of choice. It is open source, stable, and generally enough for what I need. I used to use Adobe Premier (ew again) and after that I started using CyberLink PowerDirector as it was more stable and faster than Adobe's offerings. PowerDirector served me for years and then one day I switched to Linux full time and Kdenlive became stable enough to use for daily use. It is not perfect, but it is as good as it gets when it comes to open source video editors. It also is more stable than Premier. If you need professional grade software and don't care about open source as much I'd say use DaVinci Resolve.
+
+[App Defaults](https://techtea.io/articles/2023/app-defaults/) as of 2023: If you are looking for a list of more software I use checkout my App Defaults post. I list many open source programs and services I use to run my digital life.
 
 What do you use? Is there any software I should try out? Please let me know via email or webmention.
