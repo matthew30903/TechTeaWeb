@@ -59,7 +59,7 @@ pluralizelisttitles = false
     table_stripe_color = "#F9F9F9"  # default is #F9F9F9
 
     # Hex colors for your content in dark mode  
-    sidebar_bg_color_dark = "#20202"
+    sidebar_bg_color_dark = "#202020"
     text_color_dark = "#eee"                # default is #eee
     content_bg_color_dark = "#121212"       # default is #121212
     post_title_color_dark = "#DBE2E9"       # default is #DBE2E9
