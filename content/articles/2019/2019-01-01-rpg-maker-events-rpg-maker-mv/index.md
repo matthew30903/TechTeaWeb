@@ -19,7 +19,7 @@ slug: /rpg-maker-events-rpg-maker-mv/
 
 Last time [we explored the map making interface](https://www.blog.mattlamont.com/creating-rpg-maker-project/) and made our first map in RPG Maker. It looks nice, but there is not much for the player to do.
 
-{{< figure src="./img/RPGMakerTutorialIntro3.png" alt="Image: RPG Maker Map">}}
+{{< figure src="./img/RPGMakerTutorialIntro3" alt="Image: RPG Maker Map">}}
 
 ## Enter Events
 
@@ -29,7 +29,7 @@ To get started we need to enter Event Mode(F6) before we can start adding events
 
 ## The Event Editor
 
-{{< figure src="./img/RPGEvent1NewEventWindow.png" alt="Image: RPG Maker New Event Window">}}
+{{< figure src="./img/RPGEvent1NewEventWindow" alt="Image: RPG Maker New Event Window">}}
 
 There is a lot going on here, but fortunately RPG Maker splits the window into easy to understand parts.
 
@@ -51,7 +51,7 @@ This is where event pages come in handy. We will explain this stuff in detail in
 
 ### Image
 
-{{< figure src="./img/RPGEvent2_EventImage.png" alt="Image: RPG Maker New Event Window">}}
+{{< figure src="./img/RPGEvent2_EventImage" alt="Image: RPG Maker New Event Window">}}
 
 Events are invisible to the player by default, but we can give them a character image. These images can be doors, switches, animals, monsters, or anything else that you would like your player to interact with. Each character image is split into cells. These cells are three by four. This makes an animated character sprite. The first image is the right foot, then standing still, and finally the left foot. The process repeats downwards for each direction. These characters are placed on a sheet of 8 characters.
 
@@ -101,7 +101,7 @@ Parallel activates the same way as autorun, but the it runs in the background. T
 
 Warning: Autorun and parallel can cause your game to enter an endless loop if you do not stop it. Always end your autorunning events with something that stops them from running.
 
-{{< figure src="./img/RPGEvent3_EventCommands.png" alt="Image: RPG Maker Event Commands">}}
+{{< figure src="./img/RPGEvent3_EventCommands" alt="Image: RPG Maker Event Commands">}}
 
 ### Event Contents
 
@@ -111,7 +111,7 @@ Double click in the contents section to open up a list of event commands. There 
 
 We are going to start with the Show Text command. This will let us make a dialogue box that the player will see when they activate the event. We can chose a face image to show along with the text. You can change the background and position if you wish. For this example we will have the character say "Hi, how are you?"
 
-{{< figure src="./img/RPGEvent4_TextCommand.png" alt="Image: RPG Maker Text Command">}}
+{{< figure src="./img/RPGEvent4_TextCommand" alt="Image: RPG Maker Text Command">}}
 
 Now that we have a question we should let the player respond. We will use the Show Choices command to do so. This will let the player make a choice, we can execute different commands based on their response.
 
@@ -119,7 +119,7 @@ Lets say "Good" and "Terrible" are our choices. When we enter the command you wi
 
 Lets make our event respond to the player's choice. Afterwards our event should look something like this:
 
-{{< figure src="./img/RPGEvent5_HowAreYou.png" alt="Image: RPG Maker Event Results">}}
+{{< figure src="./img/RPGEvent5_HowAreYou" alt="Image: RPG Maker Event Results">}}
 
 Now we just need to play test the game. Give it a try and see your world come to life!
 
