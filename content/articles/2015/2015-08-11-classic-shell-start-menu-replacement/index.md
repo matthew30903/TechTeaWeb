@@ -8,7 +8,7 @@ tags:
 - Customization
 - Productivity
 - Windows
-featuredImage: ./img/windows_10_Logo.png
+featuredImage: ./img/windows_10_Logo
 title: 'Classic Shell: A Start Menu Replacement'
 aliases:
   - /classic-shell-start-menu-replacement/
@@ -23,7 +23,7 @@ On the twenty-ninth of July, many of you received your upgrade to Windows 10. Th
 
 Everyone was excited about the implementation of the Start Menu in Windows 10, but this is not the menu of yesteryear. It has numerous improvements over the old menus:
 
-{{< figure src="./img/Start.png" alt="Image: Windows 10 Start Menu">}}
+{{< figure src="./img/Start" alt="Image: Windows 10 Start Menu">}}
 
 *   Better Search
 *   Live Tiles (Questionable improvement, but we will get to that in a minute.)
@@ -51,7 +51,7 @@ The first thing that you need to do is download and install Classic Shell form t
 
 After the install you will be prompted with an options screen.
 
-{{< figure src="./img/Classic_Shell_Settings.png" alt="Image: Classic Shell Settings">}}
+{{< figure src="./img/Classic_Shell_Settings" alt="Image: Classic Shell Settings">}}
 
 ### Start Menu Style
 

@@ -29,13 +29,13 @@ First I wish to say two things: Freeware is different than Open-source so read t
 
 After you install Revo Uninstaller you will see a screen full of your installed programs. You can change the view using the view button on the top tool bar if you would prefer a more detailed view or list.
 
-{{< figure src="./img/Uninstaller_Apple.png" alt="Image: Uninstall with Revo Uninstaller">}}
+{{< figure src="./img/Uninstaller_Apple" alt="Image: Uninstall with Revo Uninstaller">}}
 
 In our Example we will be getting rid of Apple Software Update, but the same principles apply. We will want to double click on the program we wish to uninstall, this will start the uninstaller.
 
 The first options you will be presented with are to run the built in installer, the vary thing we wish to avoid, Safe, Moderate, and Advanced. Most of the time going with Moderate is your best bet. The program explains what each one does in case you wish to do something different. When you hit next it will start the program's default uninstaller. After this Revo Uninstaller will scan for leftovers. If it finds any you will be prompted to clean them.
 
-{{< figure src="./img/Uninstall_Mode.png" alt="Image: Uninstall Mode">}}
+{{< figure src="./img/Uninstall_Mode" alt="Image: Uninstall Mode">}}
 
 If you are uninstalling a game for example and the game did not remove old saves or config files, they would show up here. You can select what you want to remove and what Revo Uninstaller should keep. This is the same for the registry. **Do not do anything to the registry unless you know what you are doing** as Revo can make mistakes and you could remove something important to running Windows. Some registry keys are self-explanatory, but most are not. 
 
