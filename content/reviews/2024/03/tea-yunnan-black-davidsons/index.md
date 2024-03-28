@@ -19,6 +19,7 @@ price: "$7.75"
 _weight: "2oz"
 temperature: "100°C "
 brewtime: "3-5 Minutes"
+rating: 3.5
 teas: 
     - Black
 ---
