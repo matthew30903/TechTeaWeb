@@ -23,7 +23,7 @@ The reason we chose [Firefox](https://www.mozilla.org/en-US/firefox/new/) as our
 
 The easiest way to customize Firefox is with a Persona. These are similar to wallpaper on your desktop, but cover the browser toolbars. You can find them on [Mozilla's Firefox addons site under themes](https://addons.mozilla.org/en-US/firefox/themes/). To apply a Persona just click the "+ Add" button. You can also test a theme without installing it by hovering over it with your cursor.
 
-{{< figure src="./img/Firefox_Personas_Ex.png" alt="Image: Firefox Theme">}}
+{{< figure src="./img/Firefox_Personas_Ex" alt="Image: Firefox Theme">}}
 
 In the past Firefox had a much more powerful theme system that could change the whole layout of the browser. Due to some unfortunate design decisions they have simplified the system and made it more difficult to achieve system wide changes.
 
@@ -37,7 +37,7 @@ We will go over some of the most useful and fun extensions in this article.
 
 ### Adblock Plus / [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)</a>
 
-{{< figure src="./img/Adblock_Disable_Ads.png" alt="Image: Blocked Ads">}}
+{{< figure src="./img/Adblock_Disable_Ads" alt="Image: Blocked Ads">}}
 
 Most websites make money using ads, without them we could not afford to keep in business. There comes a time, however, when ads are obnoxious or even harmful. Video ads, animated ads, scams, etc. Ads slow down your browsing experience. These two extensions are the most known and respected ad blockers around. Either one will work, but Adblock Plus has had some shady deals with advertisers and has some issues with high CPU usage.
 
@@ -49,7 +49,7 @@ You can add either one by simply clicking the "+ Add to Firefox" button.
 
 ### Classic Theme Restorer
 
-{{< figure src="./img/Firefox_Classic_Theme_Restorer_Options.png" alt="Image: Classic Theme Restorer Options">}}
+{{< figure src="./img/Firefox_Classic_Theme_Restorer_Options" alt="Image: Classic Theme Restorer Options">}}
 
 I have already gone over this extension [in the past](https://www.blog.mattlamont.com/how-to-restore-the-old-firefox-look-to-firefox-29/)</a>. Remember how I said that Firefox use to be more customizable? This plugin gives some of that customization back. You can change the style of tabs, the menus, and more importantly the search box. One of the biggest issues with the design direction in the newer Firefox is the search box functionality. The decision prevents you from quickly switching between search engines in favor for one click searching. In the Classic Theme Restorer options you can set the behavior back to a more useful state.
 

@@ -16,7 +16,7 @@ Windows 10's new Creator update that improves upon the system's settings, privac
 
 ## Windows 10 Update Assistant
 
-{{< figure src="./img/1_Update_Assistant.png" alt="Image: Windows 10 Update Assistant">}}
+{{< figure src="./img/1_Update_Assistant" alt="Image: Windows 10 Update Assistant">}}
 
 Microsoft provides a way to skip the line when it comes to updates. This tool is the Update Assistant. You can download it from Microsoft's website [here](https://www.microsoft.com/en-us/software-download/windows10).
 

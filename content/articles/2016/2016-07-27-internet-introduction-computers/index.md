@@ -31,7 +31,7 @@ Why access this data? For many reasons: The Internet holds vast amounts of infor
 
 ## Getting Online
 
-{{< figure src="./img/1-Internet_Notifications.png" caption="Wireless on the Left and Wired on the Right">}}
+{{< figure src="./img/1-Internet_Notifications" caption="Wireless on the Left and Wired on the Right">}}
 
 Before you can do anything related with the internet you need to be connected. In the notifications area you should be able to see your connection status and if you are not connected, connect to a network. The icon for this will very depending on whether you are using a wired or a wireless connection.
 
@@ -41,7 +41,7 @@ If you do not know the password it may be on the router that you are using. A ro
 
 Now we have one more step, that is open up a web browser. We will be using Microsoft Edge at the start of this tutorial, but will be changing that really soon. There are multiple ways to open Edge, the ‘e’ icon that is on the task bar and start menu, in the start menu you can click all apps and find “Microsoft Edge”, or you can open the start menu and start typing “edge” and hit enter when it appears.
 
-{{< figure src="./img/4-Microsoft_Edge.png">}}
+{{< figure src="./img/4-Microsoft_Edge">}}
 
 ### Getting Around and Installing Better Programs
 
@@ -55,7 +55,7 @@ I will be using Firefox for this tutorial, but the same principles apply to both
 
 In the search box, the box on the top of the page, you should type wish to find, in this case “Firefox”. A web page should appear with a list of search results. Click on the blue text “Firefox Web Browser – The Official...”, this will take you to the Firefox website. There should be a button that says “Free Download”, click it.
 
-{{< figure src="./img/5-Firefox_Search_Results.png">}}
+{{< figure src="./img/5-Firefox_Search_Results">}}
 
 At the bottom of Edge there should be a download status that gives you information on the download.
 
@@ -65,11 +65,11 @@ The first thing you wish to do once the file is downloaded is click “Run”. Y
 
 The installer is a fairly self-explanatory, click next once it opens. You are then presented with options for a Standard or Custom install. For most programs you will want to do a Custom Install when it is an option, as some software will do undesirable things to your computer unless you disable them. Firefox will not do said things, but it is best to get in the habit of doing things this way.
 
-{{< figure src="./img/7-Firefox_Install_0.png">}}
+{{< figure src="./img/7-Firefox_Install_0">}}
 
 Next you will be asked where you wish to install the program. You are best leaving this alone, but take note how things are set up. You are given the folder that the program will be installed into, how much space is required for the program, and how much you have on your hard drive.
 
-{{< figure src="./img/8-Firefox_Install_1.png">}}
+{{< figure src="./img/8-Firefox_Install_1">}}
 
 The next option given you is to install the “Maintenance Service”, you will want to have this. You should always have your software up to date, this keeps it secure and keeps you from getting a virus.
 
@@ -79,7 +79,7 @@ You will be given a summery of the installation, where the program will be insta
 
 A green progress bar will show you how things are going and then you can just click “Finish”. Firefox will start automatic unless you unchecked it.
 
-{{< figure src="./img/9-Firefox_Start_Page.png">}}
+{{< figure src="./img/9-Firefox_Start_Page">}}
 
 Follow similar steps if using Google Chrome.
 
@@ -87,7 +87,7 @@ Follow similar steps if using Google Chrome.
 
 You are finally here, you have a competent web browser and are connected to the internet. Now there is some simple setup needed for Firefox.
 
-{{< figure src="./img/11_Firefox_Search_Options.png">}}
+{{< figure src="./img/11_Firefox_Search_Options">}}
 
 Without a little work, Firefox is not as powerful as it could be. So we need to go into the menu and click on options. This menu is on the far right of the browser, just under the close button. Within the options you will find a tab that says Search, under that tab you will have the option to change search engines. You will want to change it to Google under the drop down list that says Yahoo. Just click on the button and it will open this list, then click Google. Yes, that Google.
 

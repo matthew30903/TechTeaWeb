@@ -25,7 +25,7 @@ Fortunately you can with some photo editing and a Firefox addon named Personas P
 
 ## Creating the Persona Images
 
-{{< figure src="./img/firefox_persona_example.png" caption="My attempt at making a persona.">}}
+{{< figure src="./img/firefox_persona_example" caption="My attempt at making a persona.">}}
 
 To start you will need some images to use as the Firefox Header and Footer. The header is the image that is displayed at the top of your browser, behind the toolbars and tabs. The footer is the image used for the addonbar at the bottom of Firefox. These two images should be simple as to not interfere with text.
 
@@ -38,7 +38,7 @@ You can use your favorite image editing program to crop larger images to size if
 
 ## Persona Plus Settings
 
-{{< figure src="./img/firefox_personaplus_settings.png" alt="Image: Persona Plus Settings">}}
+{{< figure src="./img/firefox_personaplus_settings" alt="Image: Persona Plus Settings">}}
 
 Now that you have your images, you will need to install Personas Plus. You should find an icon for the addon on your toolbar. When you click on the icon a menu should appear with the option to edit a custom persona. This will give you a menu where you can chose your header, footer, text color, and accent color. Make sure that your colors do not conflict with the persona you made as this will be the text color for the toolbar.
 

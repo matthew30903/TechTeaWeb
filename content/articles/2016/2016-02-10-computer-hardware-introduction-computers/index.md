@@ -21,7 +21,7 @@ Today, we are going to go over the basic computer hardware you will need to get 
 
 **The Computer**: Most computers are housed in tower-like cases and are thus called towers. These towers hold all the components that make the computer run and have slots to plug peripherals into it. This is the most important and most expensive part of your system.
 
-{{< figure src="./img/video-connections.jpg" alt="Image: HDMI, DVI, and VGA are used to connect the monitor to the computer.">}}
+{{< figure src="./img/video-connections" alt="Image: HDMI, DVI, and VGA are used to connect the monitor to the computer.">}}
 
 **The Monitor**: The screen that allows you to see what your computer is doing. This normally connects to the back of the computer in a VGA or DVI port, but sometimes HDMI is used. These connections are color coated on most devices. 
 
@@ -29,13 +29,13 @@ Today, we are going to go over the basic computer hardware you will need to get 
 
 An example of a higher end keyboard is: [Logitech Gaming Keyboard G110](http://www.amazon.com/gp/product/B002RRLQIO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002RRLQIO&linkCode=as2&tag=randothou0b7d-20&linkId=4GU5N2OUS2FT4WD3), much more than is necessary for normal use.
 
-{{< figure src="./img/im_keyboard_plug_ps2_and_usb.jpg" alt="Image: PS/2 and USB can both be used to connect a keyboard or mouse. USB can connect other hardware as well.">}}
+{{< figure src="./img/im_keyboard_plug_ps2_and_usb" alt="Image: PS/2 and USB can both be used to connect a keyboard or mouse. USB can connect other hardware as well.">}}
 
 **The Mouse**: This device, wist not necessary, makes using the computer much easier for the layman to use. Generally they have a right and left button and a wheel in the center, but there are computer mice that have 16 or more buttons.You want to get one that curves naturally with your hands and is comfortable to use. This connects to the computer using either a PS/2(Green) or USB port.
 
 Personally I use the [Logitech G502](http://www.amazon.com/gp/product/B00IRHE892/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IRHE892&linkCode=as2&tag=randothou0b7d-20&linkId=UDQEQTI3K667NTYE) mouse, it gets the job done and is comfortable.
 
-{{< figure src="./img/Ethernet.png" alt="Image: Ethernet is used to connect a computer to the internet.">}}
+{{< figure src="./img/Ethernet" alt="Image: Ethernet is used to connect a computer to the internet.">}}
 
 **Ethernet Cable** or **Wireless Card**: If you want to connect to the internet you will need an Ethernet Cable that plugs into the back of your computer or need a Wireless Card. Ethernet is the most reliable and secure you are going to get, but you need to be physically connected to the source of your internet. Wireless is more expensive and arguably less secure, but gives you mobility. Most wireless cards connect via USB, but some do connect to the inside of your computer. Ethernet has not setup required for most home solutions, but wireless in more involved and setup is different case by case. Read the manual if you do not know what to do. Most laptops have wireless cards built in and setup for you.
 

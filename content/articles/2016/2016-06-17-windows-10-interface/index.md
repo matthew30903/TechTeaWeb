@@ -25,13 +25,13 @@ When you start up your computer and login, you will be greeted with the desktop.
 
 At the bottom of the screen you will see the task bar.
 
-{{< figure src="./img/Taskbar.png" alt="Windows 10's Taskbar">}}
+{{< figure src="./img/Taskbar" alt="Windows 10's Taskbar">}}
 
 This is the key to the interface. From left to right: Start Button, Cortana Searchbar, Task View Shortcut, Quick Launch Shortcuts, Notifications Area, Time and Date, and the Show Desktop Shortcut.
 
 As we will not be using Cortana and there are shortcuts using the keyboard for task view we will disable the buttons on the taskbar. To do so we need to right click on the taskbar. This will bring up a Context Menu, it is called such as it is different depending on where and when you right click.
 
-{{< figure src="./img/Context_Menu.png" alt="Windows 10's Context">}}
+{{< figure src="./img/Context_Menu" alt="Windows 10's Context">}}
 
 You will want to highlight the Cortana button in the menu, this will open up a submenu where you can chose to hide Cortana, click it. Click Show Task View button in the menu to hide it as well. Context Menus often give you access to many options that would otherwise be inconvenient to access.
 
@@ -49,13 +49,13 @@ The last button is a little hard to see by some, but it will hide all of your op
 
 ## The Start Menu and Programs
 
-{{< figure src="./img/Start_Menu_Def.png" alt="Windows 10's Start Menu">}}
+{{< figure src="./img/Start_Menu_Def" alt="Windows 10's Start Menu">}}
 
 Click the start button or press the meta key on the keyboard (It looks like the start button) to open the start menu. It is full of ads and looks unprofessional, [but we will be replacing it soon](https://www.blog.mattlamont.com/classic-shell-start-menu-replacement/) and we need it.
 
 This is the part of the interface that brings you to your programs. Lets open File Explorer by clicking on it in the menu.
 
-{{< figure src="./img/File_Explorer_Def.png" alt="Windows 10's File Explorer">}}
+{{< figure src="./img/File_Explorer_Def" alt="Windows 10's File Explorer">}}
 
 All files in Windows are stored in File(Also Called Directories). These file can hold pictures, music, videos, programs, and other files. You navigate these using a program named File Explore.
 

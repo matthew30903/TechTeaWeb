@@ -17,7 +17,7 @@ slug: /installing-windows-10-intro-computers/
 
 Last time we went over [computer hardware](https://www.blog.mattlamont.com/computer-hardware-introduction-computers). Today we will be installing Windows 10. Windows 10 is the most recent version of the Windows Operating system (OS). We will first go over installing the OS from a disk, if you bought a computer with Windows 10 on it you can skip ahead to part two.
 
-{{< figure src="./img/00-Language-Select.png" alt="Windows 10's Localization Selection">}}
+{{< figure src="./img/00-Language-Select" alt="Windows 10's Localization Selection">}}
 
 ## Part 1: Installing from Disk
 
@@ -27,7 +27,7 @@ The first thing you will see when you start installing the system is the localiz
 
 On the next screen you should screen **Install now** and a **Repair your computer** button. Click **Install now**.
 
-{{< figure src="./img/02-Enter-CD-Key.png" alt="02-Enter-CD-Key">}}
+{{< figure src="./img/02-Enter-CD-Key" alt="02-Enter-CD-Key">}}
 
 
 Windows will ask you for your serial number. It will be on the case of the installation disk. If you do not have it you can click **I don't have a product key**, but you will run into trouble later if you cannot find it.
@@ -38,7 +38,7 @@ You will just need to click on your hard drive and then the next button on the n
 
 We will go over partitioning in a later article.
 
-{{< figure src="./img/04-Installing-Windows.png" alt="Windows 10 is installing, it will only take a minute.">}}
+{{< figure src="./img/04-Installing-Windows" alt="Windows 10 is installing, it will only take a minute.">}}
 
 The next window will show the installation progress of Windows 10. This will take a few minutes. After it is done your computer will restart.
 
@@ -46,7 +46,7 @@ The next window will show the installation progress of Windows 10. This will tak
 
 Now we start setting up Windows 10 for use. This is where things get tricky for the uneducated user. Windows 10 will do everything in its power to get you to consent to giving more information than you should. If you do not care about your privacy you can ignore the next part of the article, but you should care. “but I have nothing to hide.” is an evil and dumb statement, never consent to giving your information when it is not required.
 
-{{< figure src="./img/05-Express-vs-Customize.png" alt="Customize Install.">}}
+{{< figure src="./img/05-Express-vs-Customize" alt="Customize Install.">}}
 
 The next screen will ask you if you want to **Use Express settings**, you do not want to. Each point that the installer makes about why you want to use them is another piece of your private life that Microsoft can use for marketing and something that can be used against you.
 
@@ -54,7 +54,7 @@ There is a small **Customize settings **button near the bottom left of the scree
 
 The next few windows will have a lot of options you will want to click off.
 
-{{< figure src="./img/06-Personalization.png" alt="Oh where art thou, oh where art thou privacy?">}}
+{{< figure src="./img/06-Personalization" alt="Oh where art thou, oh where art thou privacy?">}}
 
 You will want to click each one of these option to off. These options will allow Microsoft to track everything you type, your location, your calendar information, and the
 
@@ -70,7 +70,7 @@ Sending error reports to Microsoft actually sounds like a good idea, but in my e
 
 ### More options to turn off:
 
-{{< figure src="./img/08-Browser-Protection-and-Updates.png" alt="More things to turn off, hooray!">}}
+{{< figure src="./img/08-Browser-Protection-and-Updates" alt="More things to turn off, hooray!">}}
 
 Windows 10's SmartScreen feature is useful if you go to less savory websites, but in exchange, Microsoft gets to know where you have been online and what you are downloading.
 
@@ -86,7 +86,7 @@ Windows will restart after you click next.
 
 We are almost done! Unfortunately Microsoft tries to ware on your willpower by making it easier to just hand over the keys to your life.
 
-{{< figure src="./img/09-Sign-in-now.png" alt="It is a trap! Do not fall for it.">}}
+{{< figure src="./img/09-Sign-in-now" alt="It is a trap! Do not fall for it.">}}
 
 Windows 10 will ask you to sign in to or make a Microsoft account. This account will allow you to connect your devices and will allow Microsoft to put a name, address, email, and phone number to all the data they collect.
 
@@ -96,7 +96,7 @@ We will want to **Skip this **step. There are some honest benefits to using a Mi
 
 ### Creating a Local Account
 
-{{< figure src="./img/10-Create-an-account-for-this-PC.png">}}
+{{< figure src="./img/10-Create-an-account-for-this-PC">}}
 
 We are going to setup the account for the first user on this computer, this will be the system administrator and will have full control over the system.
 
@@ -110,7 +110,7 @@ The password hint can help you remember what you have entered here, if you forge
 
 Now Windows 10 will play an animation as it sets things up for the new user. Just wait wist it finishes.
 
-{{< figure src="./img/11-We-are-done.png">}}
+{{< figure src="./img/11-We-are-done">}}
 
 We are done, just one more thing to do.
 

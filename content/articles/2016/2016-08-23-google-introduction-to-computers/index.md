@@ -26,11 +26,11 @@ Google's main uses will be searching the internet and for email. Google also run
 
 ### Setting up a Google Account
 
-{{< figure src="./img/Google_Homepage.png">}}
+{{< figure src="./img/Google_Homepage">}}
 
 Making a Google account is easy and quick. The first thing you need to do is <a href="https://www.blog.mattlamont.com/internet-introduction-computers/">open up your web browser</a> (Firefox/Chrome/Etc.). In the search box just type up Google.com. At the top right of the screen there should be a blue button that says "Sign in". This will take you to a page where you can sign into an account or make a new one. Underneath the login prompt asking for an email address is a "Create account" button, click it.
 
-{{< figure src="./img/3-Google_Create_Account.png">}}
+{{< figure src="./img/3-Google_Create_Account">}}
 
 This page asks for some basic information. Your name, the username you wish, a password, birthday, gender, Phone#, and email. Remember that you do not need to use your real name, but what name you use will be an important identifier for many online actions.
 
@@ -42,7 +42,7 @@ Congratulations on your new Google account. Your email will be what was entered 
 
 You will be given a short tutorial on what each button does and be sent back to the Google home page. If you look at the top right of the screen, in place of the login button, there is a icon of the first letter used for the name of your account. Near that button is an array of 9 squares set in a 3x3 arrangement, click it. This will bring up a list of Google services that are available. You will want to check your email first. Over time we will explore what these other services do in detail.
 
-{{< figure src="./img/4-Gmail_Interface.png">}}
+{{< figure src="./img/4-Gmail_Interface">}}
 
 Click Gmail. This is Google's email system. A short promotional slide presentation will play. Afterwords you should get access to your inbox. As you can see the interface is quite simple. On the top of the page you have a search box for your emails and the same options on the right as everywhere else on google. Underneath is your inbox and options for each option such as moving messages between folders and deleting them. On the left sidebar is a list of folders. Some will contain messages automatically, others you will have to populate yourself.
 
@@ -52,7 +52,7 @@ Above your Inbox is a couple of tabs that are designed to help organize the inbo
 
 Click an email to start reading it.
 
-{{< figure src="./img/5-Reading_an_email.png">}}
+{{< figure src="./img/5-Reading_an_email">}}
 
 You can see who the email is from and their email address, the day and time the email was sent, and some options for staring and replying to the email at the top. Then follows the email's contents. The email that is resting within the inbox by default is just a promotional mail for other google products, but it is a good example. After the contents of the email there should be a little reply box. This email is auto-generated so you should not reply to it, but if you are emailing your friends it is much easier for organization to reply instead of starting a new message.
 
@@ -60,7 +60,7 @@ You can see who the email is from and their email address, the day and time the 
 
 Go back to your inbox and then click on the compose button.
 
-{{< figure src="./img/6-Compose_Email.png">}}
+{{< figure src="./img/6-Compose_Email">}}
 
 You type the email address of the person you wish to write an email to in the first line. If  you already have them in your contacts you can just type their name and it will automatically type their email. Then you have the subject line. It is important that you fill this out. Most email that lacks a subject will be regarded as spam and even then it is rude.
 
@@ -72,4 +72,4 @@ For more information on how to use Gmail you can look at the account setup optio
 
 Not that was a long and boring track, but now we can get into the more fun parts of computers. Look forward to more articles in the future.
 
-{{< figure src="./img/7-Composed_Email_to_Someone.png">}}
+{{< figure src="./img/7-Composed_Email_to_Someone">}}

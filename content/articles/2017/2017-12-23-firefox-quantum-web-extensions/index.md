@@ -12,7 +12,7 @@ tags:
 title: Firefox Quantum and Web Extensions
 aliases:
   - /firefox-quantum-web-extensions/
-featuredImage: ./img/ff_Quantum.png
+featuredImage: ./img/ff_Quantum
 slug: /firefox-quantum-web-extensions/
 ---
 
