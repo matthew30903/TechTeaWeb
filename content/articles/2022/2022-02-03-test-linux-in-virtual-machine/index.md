@@ -7,7 +7,7 @@ draft: false
 categories:
   - Linux
   - Tech Tips
-featuredImage: ./img/linux_in_virtual_box_featured_image.png
+featuredImage: ./img/linux_in_virtual_box_featured_image
 tags:
   - FOSS
   - Linux
@@ -37,7 +37,7 @@ You will want to download VirtualBox from their [website](https://www.virtualbox
 
 Once you open it you will see something similar to this:
 
-{{< figure src="./img/testLinuxVirtualMachine_VBox_StartPage.png" alt="Virtualbox Start Page">}}
+{{< figure src="./img/testLinuxVirtualMachine_VBox_StartPage" alt="Virtualbox Start Page">}}
 
 You will see that I already have two Linux virtual machines, but we can add one more. 
 
@@ -47,7 +47,7 @@ After downloading the Linux Mint ICO file we can start making our new VM.
 
 ### Creating a new Virtual Machine
 
-{{< figure src="./img/testLinuxVirtualMM_CreateVM_1.png" alt="Virtualbox Create Page">}}
+{{< figure src="./img/testLinuxVirtualMM_CreateVM_1" alt="Virtualbox Create Page">}}
 
 To get started we will press the **blue gear/star button**. This will bring up a window that will let us create a new VM. To start we need to give it a name. I will call this one Linux Mint. Next, we will put it in a folder, I like to keep all my virtual machines in one location for easier organization. Finally, we will set the type to Linux and the version to Ubuntu (64-bit). We are setting it to Ubuntu because Linux Mint is based on it and Virtual Box doesn't have a dedicated Linux Mint option.
 
@@ -59,7 +59,7 @@ Most Linux distros only need around 15 GB of storage space to install and functi
 
 Now you can see we have a virtual machine named Linux Mint.
 
-{{< figure src="./img/testLinuxVirtualMachine_VBox_StartPageWithVM.png" alt="Virtualbox Start Page">}}
+{{< figure src="./img/testLinuxVirtualMachine_VBox_StartPageWithVM" alt="Virtualbox Start Page">}}
 
 ### Starting Up the VM
 
@@ -69,7 +69,7 @@ Now we just need to press the Start button.
 
 ## Running Linux
 
-{{< figure src="./img/testLinuxVirtualMachine_VBox_GRUB.png" alt="Virtualbox Start Page">}}
+{{< figure src="./img/testLinuxVirtualMachine_VBox_GRUB" alt="Virtualbox Start Page">}}
 
 Once you hit start you will see a screen like this pop-up. This screen gives us a lot of options before installing Linux mint, but we will just Start Linux Mint through the first option in this tutorial. Now you just need to wait for a bit while Mint boots.
 
@@ -85,7 +85,7 @@ Let's try installing Mint inside our virtual machine. The first thing you will d
 
 Next, you will be asked if you want to install the multimedia codecs. These are needed if you want to watch video on some websites and some video file types.
 
-{{< figure src="./img/testLinuxVirtualMachine_VBox_Partitioning.png" alt="Virtualbox Start Page">}}
+{{< figure src="./img/testLinuxVirtualMachine_VBox_Partitioning" alt="Virtualbox Start Page">}}
 
 Now we are at the part that confuses many people: The Installation Type page.
 
@@ -97,7 +97,7 @@ There will be a popup that gives you a list of changes that will be made and ask
 
 ### Time Zone
 
-{{< figure src="./img/testLinuxVirtualMachine_VBox_TimeZone.png" alt="Virtualbox Start Page">}}
+{{< figure src="./img/testLinuxVirtualMachine_VBox_TimeZone" alt="Virtualbox Start Page">}}
 
 The next page lets you choose your timezone. You can either click on the map or type your location into the text box. You can change this later if you wish in the Linux Mint settings.
 
@@ -105,7 +105,7 @@ The next page lets you choose your timezone. You can either click on the map or 
 
 After setting your timezone you will be able to create your first user. This is how you will sign into your computer.
 
-{{< figure src="./img/testLinuxVirtualMachine_VBox_CreateUser.png" alt="Virtualbox Start Page">}}
+{{< figure src="./img/testLinuxVirtualMachine_VBox_CreateUser" alt="Virtualbox Start Page">}}
 
 *   **Your name**, this might be used by some applications to display your name such as email clients.
 *   **Your computer's name** is the name of the computer on the network. It might not be very important in this virtual machine, but having good names for your devices can be useful when trying to manage your network.

@@ -5,7 +5,7 @@ categories:
   - Philosophy
   - Tech Tips
 date: 2022-01-15T13:48:07Z
-featuredImage: ./img/meta_is_evil_featured_image.png
+featuredImage: ./img/meta_is_evil_featured_image
 tags:
   - Digital Freedom
   - Philosophy

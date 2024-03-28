@@ -32,7 +32,10 @@
     
     {{ if .Params.featuredImage }}
     <p>
-        <img src="{{.Params.featuredImage}}"><br>
+      <picture>
+        <source srcset="{{ .Params.featuredImage }}.webp" type="image/webp" />
+        <img src="{{.Params.featuredImage}}".jpeg alt="Feature Image"><br>
+      </picture>
     </p>
     {{ end }}
     

@@ -5,7 +5,7 @@ categories:
   - Introduction to Computers
   - Tech Tips
 date: 2022-01-01T17:20:27Z
-featuredImage: ./img/readDoc_featureImage.png
+featuredImage: ./img/readDoc_featureImage
 tags:
   - Productivity
   - Tutorials
@@ -37,7 +37,7 @@ If you just want to know how a specific function works then that is where docume
 
 ## Reading the Documentation
 
-{{< figure src="./img/readDoc_SugarCubeForLoopDoc.png" alt="Sugarcube Docs Image">}}
+{{< figure src="./img/readDoc_SugarCubeForLoopDoc" alt="Sugarcube Docs Image">}}
 
 You will often find official documentation for a program, language, or piece hardware from its official website. Some documentation is better than others though and some assumes prior knowledge, this is where tutorials and a notebook come in. If you find some terminology you don't understand write it down, look it up if you still don't understand it after following the examples and reading the docs.
 
@@ -49,7 +49,7 @@ SugarCube's docs assume we have familiarity with Twine and other SugarCube conce
 
 ### Introduction
 
-{{< figure src="./img/readDoc_SugarCubeForLoopDoc_intro.png" alt="Sugarcube Docs Image">}}
+{{< figure src="./img/readDoc_SugarCubeForLoopDoc_intro" alt="Sugarcube Docs Image">}}
 
 The documentation starts with the code we are going to use along with its structure. Most programming docs are structured similar to this. In SugarCube's case it shows us the 3 forms that a for loop can take as well as a line telling you it repeats its contents.
 
@@ -59,7 +59,7 @@ There is also a section that gives us some developer notes. This is not somethin
 
 ### The Details
 
-{{< figure src="./img/readDoc_SugarCubeForLoopDoc_details.png" alt="Sugarcube Docs Image">}}
+{{< figure src="./img/readDoc_SugarCubeForLoopDoc_details" alt="Sugarcube Docs Image">}}
 
 The introduction to the For Loop said there were three forms so there are two subsections, one for the conditional forms and one for the range form. Lets focus on the Conditional form.
 
@@ -73,7 +73,7 @@ This is great and all, but how do we put that together if we never seen it imple
 
 ### Examples
 
-{{< figure src="./img/readDoc_SugarCubeForLoopDoc_examples.png" alt="Sugarcube Docs Image">}}
+{{< figure src="./img/readDoc_SugarCubeForLoopDoc_examples" alt="Sugarcube Docs Image">}}
 
 Good documentation will give examples. In this case we are shown the setup for the 3-part conditional form of a for loop. There is documentation showing the setup of the array the loop is going to iterate over, the actual array itself, and the results.
 

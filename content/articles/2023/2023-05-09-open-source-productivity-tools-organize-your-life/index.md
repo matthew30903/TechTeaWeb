@@ -7,7 +7,7 @@ authors:
 categories:
   - App Spotlight
   - Tech Tips
-featuredImage: ./img/open_source_productivity_apps_cover_image.jpg
+featuredImage: ./img/open_source_productivity_apps_cover_image
 tags:
   - Cross-Platform
   - FOSS
@@ -37,7 +37,7 @@ Nextcloud is self-hosted, or you can find providers that will host it for you. H
 
 ### Nextcloud News
 
-{{< figure src="./img/open_source_productivity_apps_nextcloud_news-1.png" alt="Nextcloud News Image">}}
+{{< figure src="./img/open_source_productivity_apps_nextcloud_news-1" alt="Nextcloud News Image">}}
 
 Nothing improves productivity like a RSS reader. [I've talked about them before](https://www.blog.mattlamont.com/rss-our-information-diet/), but basically a RSS feed provides a chronological list of posts from a website. A RSS reader lets you collect these feeds into one place and then filter, organize, and read them. For this task I use Nextcloud News.
 
@@ -51,7 +51,7 @@ Every good productivity system needs a way to manage tasks, sometimes multiple w
 
 #### Calendar
 
-{{< figure src="./img/open_source_productivity_apps_nextcloud_calendar.png" alt="Nextcloud Calendar Image">}}
+{{< figure src="./img/open_source_productivity_apps_nextcloud_calendar" alt="Nextcloud Calendar Image">}}
 
 The Calendar gives you exactly what it sounds like, a calendar. What makes it special is that it can sync to any calendar app that supports caldav, so I can sync it with Thunderbird on my computers and most Android Calendar apps. I put events, reminders, and block out time with my calendar. I split it into several different areas in my life and use Nextcloud to color code them so I know at a glance what they are for. 
 
@@ -71,7 +71,7 @@ As an alternative you can also use Logseq, as it has a Kanban plugin.
 
 ### Contacts
 
-{{< figure src="./img/open_source_productivity_apps_nextcloud_contacts.png" alt="Nextcloud Contacts Image">}}
+{{< figure src="./img/open_source_productivity_apps_nextcloud_contacts" alt="Nextcloud Contacts Image">}}
 
 A good contacts list is important for any productivity system. This is where you keep track of who you know and organize them into categories. The best way to remember a number is to have your phone remember it for you.
 
@@ -87,7 +87,7 @@ Unless otherwise noted, these Nextcloud tools all work in the web and either int
 
 ## 2. Omnivore - End the Endless Scrolling 
 
-{{< figure src="./img/open_source_productivity_apps_omnivor.png" alt="Omnivor Read-It-Later Image">}}
+{{< figure src="./img/open_source_productivity_apps_omnivor" alt="Omnivor Read-It-Later Image">}}
 
 Even with our RSS reader we are still going to get distracted by random things we see on the internet, this is where a read-it-later app like [Omnivore](https://omnivore.app/) comes in. Think of this kind app as glorified bookmark tools combined with a digital book reader. 
 
@@ -97,7 +97,7 @@ When we are in information gathering mode, we are usually bad at actually consum
 
 ## 3. Logseq - Advanced Note Taking
 
-{{< figure src="./img/open_source_productivity_apps_logseq.png" alt="Logseq PKM and Notes Image">}}
+{{< figure src="./img/open_source_productivity_apps_logseq" alt="Logseq PKM and Notes Image">}}
 
 [Logseq](https://logseq.com) is a Personal Knowledge Management tool and note-taking app that has become my go to note-taking app. Logseq gives you a non-linear way of taking notes, capturing information, and referencing the notes you take. It works on all major platforms including web, though all your notes are saved locally.
 
@@ -109,7 +109,7 @@ Logseq is a bit complex, so it will take a few articles on our part to fully cov
 
 ## 4. Thunderbird - Email Productivity King
 
-{{< figure src="./img/open_source_productivity_apps_thunderbird-1.png" alt="Logseq PKM and Notes Image">}}
+{{< figure src="./img/open_source_productivity_apps_thunderbird-1" alt="Logseq PKM and Notes Image">}}
 
 [Thunderbird](https://www.thunderbird.net/) is a desktop email client, calendar, and RSS reader. I use Thunderbird to check my emails across all my accounts and sync info with Nextcloud. What makes this particularly useful and productive is that I can create advanced filters in Thunderbird that can sort my email, view all my email addresses in one place, and tie my contacts and calendar into the same application.
 
@@ -119,7 +119,7 @@ Thunderbird has many extensions that can further increase your productivity: uni
 
 ## 5. Kontact - PIM for KDE Users
 
-{{< figure src="./img/open_source_productivity_apps_kontact.png" alt="Logseq PKM and Notes Image">}}
+{{< figure src="./img/open_source_productivity_apps_kontact" alt="Logseq PKM and Notes Image">}}
 
 While I use Thunderbird for most of my desktop calendar and email needs, KDE has an application suit that does everything Thunderbird can and more. [Kontact](https://kontact.kde.org) is a user interface that combines several KDE applications into one place for all your productivity needs. This includes email, contacts, calendar, to-do lists, RSS feed reader, note taking, travel itineraries, and more. This creates a collection of applications that is great for Personal Information Management (PIM), not to be confused with PKM like logseq (that is a future article).
 
