@@ -4,7 +4,7 @@ authors:
 categories:
 - Tech Tips
 date: "2021-03-11T17:35:27Z"
-featuredImage: ./img/mastodon_featured_image.png
+featuredImage: ./img/mastodon_featured_image
 tags:
 - Cross-Platform
 - Fediverse
@@ -37,7 +37,7 @@ Think of it like email. Regardless of who your provider is, you can still send e
 
 ## Getting Started with Mastodon
 
-{{< figure src="./img/find_mastodon_instance.png" alt="Image: Choosing an instance to join.">}}
+{{< figure src="./img/find_mastodon_instance" alt="Image: Choosing an instance to join.">}}
 
 Before interacting with Mastodon, you need to join an instance. There is a handy [list of instances](https://joinmastodon.org/communities) provided by the community on the main website. You can also try [instances.social](https://instances.social) for a small quiz to help you find one to join. 
 
@@ -45,14 +45,14 @@ You can sign up for an instance that is open for registration. Just keep in mind
 
 After finding an instance, you will find a page like this one on [fosstodon](https://fosstodon.org/about):
 
-{{< figure src="./img/mastodon_login_page_fosstodon.png" alt="Image: FOSSTODON's signup and login screen.">}}
+{{< figure src="./img/mastodon_login_page_fosstodon" alt="Image: FOSSTODON's signup and login screen.">}}
 
 Most instances require an email to sign up and have a list of rules and instances that they do not federate with. I recommend finding an instance that does not block other legitimate instances, as limits your access to the Fediverse. Mastodon has features that can hide content from instances, so outright blocking is often not necessary other than spam filtering.
 
 ## Navigating Mastodon
 
 
-{{< figure src="./img/mastodon_main_page_simple_layout.png" alt="Image: Mastodon's default user interface.">}}
+{{< figure src="./img/mastodon_main_page_simple_layout" alt="Image: Mastodon's default user interface.">}}
 Mastodon is easy to use and has great documentation, so we will not focus too much on the user interface. There are, however, some key things you need to know.
 
 ### There are Multiple Timelines

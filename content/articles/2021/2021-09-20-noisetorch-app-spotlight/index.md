@@ -6,7 +6,7 @@ categories:
 - Linux
 - Tech Tips
 date: "2021-09-20T07:41:00Z"
-featuredImage: ./img/noiseTorch_Select_CoverImage.jpeg
+featuredImage: ./img/noiseTorch_Select_CoverImage
 tags:
 - FOSS
 - Linux
@@ -40,7 +40,7 @@ I'm running Manjaro, so I downloaded the binary from the AUR.
 
 Now that we have NoiseTorch installed, we can start using it. Launch it and we will be greeted with a screen that looks like this:
 
-{{< figure src="./img/noiseTorch_Select_Microphone.jpeg" alt="Image: NoiseTorch input device selection screen.">}}
+{{< figure src="./img/noiseTorch_Select_Microphone" alt="Image: NoiseTorch input device selection screen.">}}
 
 All you have to do is select Filter Microphone and select the microphone you want to filter background noise out for. After that, you just need to select "Load NoiseTorch" and change your audio input device to your new NoiseTorch Microphone. Now it will start isolating noise.
 

@@ -5,7 +5,7 @@ categories:
 - Introduction to Computers
 - Tech Tips
 date: "2021-06-10T13:57:33Z"
-featuredImage: ./img/you_need_passwrd_manager_feature.png
+featuredImage: ./img/you_need_passwrd_manager_feature
 tags:
 - Cross-Platform
 - FOSS
@@ -38,7 +38,7 @@ Password managers help fix this problem.
 
 ## What do Password Managers do?
 
-{{< figure src="./img/keyStock.jpeg" alt="Image: The master password is the key to your passwords.">}}
+{{< figure src="./img/keyStock" alt="Image: The master password is the key to your passwords.">}}
 
 Password managers are applications that store and organize passwords. Your passwords get stored in an encrypted database that holds a list of your accounts, passwords, and other supplemental information. This database is secured using a master password. This password is like a key to your password vault. You only need to remember one password instead of 100.
 
@@ -56,7 +56,7 @@ You have to trust someone when you use a cloud password manager, this is often t
 
 #### Best Cloud Password Manager: [Bitwarden](https://bitwarden.com/)
 
-{{< figure src="./img/bitwardenWebsiteMainPage-1.png" alt="Image: Bitwarden is a cloud password manager.">}}
+{{< figure src="./img/bitwardenWebsiteMainPage-1" alt="Image: Bitwarden is a cloud password manager.">}}
 
 I'd recommend the cloud password manager , if your threat model allows for it. I use Bitwarden on a daily bases for most of my accounts. It supports all major platforms and web browsers, it is [FOSS](https://www.blog.mattlamont.com/what-is-free-and-open-source-software-foss/), and you can host your own copy of it on your own servers if you don't trust Bitwarden's servers.
 
@@ -72,7 +72,7 @@ Local password managers save your passwords in a database stored on your device.
 
 #### Best Local Password Manager: [KeePassXC](https://keepassxc.org/)
 
-{{< figure src="./img/KeePassXC_MainPage.png" alt="Image: KeyPassXC is a local password manager.">}}
+{{< figure src="./img/KeePassXC_MainPage" alt="Image: KeyPassXC is a local password manager.">}}
 
 KeePassXC is a cross platform and FOSS password manager that works on your desktop. It has many powerful features including hardware token support, browser integration with all major browsers, and can keep track of personal data alongside passwords. KeePassXC does not have an official mobile app, but their are third party apps for that.
 

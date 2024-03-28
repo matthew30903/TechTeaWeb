@@ -5,7 +5,7 @@ categories:
 - Game Development
 - Twine
 date: "2021-10-08T11:33:47Z"
-featuredImage: ./img/StoryFormatsThunb.png
+featuredImage: ./img/StoryFormatsThunb
 tags:
 - Cross-Platform
 - FOSS

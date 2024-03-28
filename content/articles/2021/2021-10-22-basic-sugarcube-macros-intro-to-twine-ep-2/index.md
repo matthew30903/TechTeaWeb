@@ -4,7 +4,7 @@ authors:
 categories:
 - Twine
 date: "2021-10-22T09:18:12Z"
-featuredImage: ./img/SugarCubeMacrosCoverImage.png
+featuredImage: ./img/SugarCubeMacrosCoverImage
 tags:
 - Cross-Platform
 - FOSS

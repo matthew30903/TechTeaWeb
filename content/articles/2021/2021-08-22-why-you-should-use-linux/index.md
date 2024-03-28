@@ -5,7 +5,7 @@ categories:
 - Linux
 - Tech Tips
 date: "2021-08-22T08:57:40Z"
-featuredImage: ./img/whyUseLinuxFeature.jpeg
+featuredImage: ./img/whyUseLinuxFeature
 tags:
 - Open Source
 - FOSS
@@ -30,7 +30,7 @@ Now we are ready to go over some of the reasons you might want to consider using
 
 ### 1. It is Free
 
-{{< figure src="./img/unlock.jpg" alt="Image: Linux unlocks the chains of proprietary software.">}}
+{{< figure src="./img/unlock" alt="Image: Linux unlocks the chains of proprietary software.">}}
 
 Did you know that a Windows 10 license can set you back upwards of $200 depending on version? Every Windows computer you purchase has a small markup for that license and it can be costly when building your own computer. Not only that, you don't actually own it and you have to keep paying for it with your data. I've been spammed with messages on my Windows PC to update, signup for a Microsoft account, and use Microsoft software; that is not freedom.
 
@@ -44,7 +44,7 @@ Think software like [Kdenlive](https://kdenlive.org/en/), [GIMP](https://www.gim
 
 ### 3. Linux is Private by Design
 
-{{< figure src="./img/CameraAlwaysWatching.jpg" alt="Image: You are always being watched by big tech. Linux gives you privacy.">}}
+{{< figure src="./img/CameraAlwaysWatching" alt="Image: You are always being watched by big tech. Linux gives you privacy.">}}
 
 We all know that Microsoft and Apple are always watching us. There is no way to fully know what is going on in the background. You can't see the the source code and you can't disable all forms of spying without losing important functionality. Most Linux distributions advertise they do not collect any data without your consent. Don't believe them? Check the source code and you can see for yourself.
 

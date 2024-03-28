@@ -4,7 +4,7 @@ authors:
 categories:
 - Year Review
 date: "2021-01-01T19:33:31Z"
-featuredImage: ./img/happy-2021-feature-image.jpg
+featuredImage: ./img/happy-2021-feature-image
 title: Happy 2021!
 aliases:
   - /happy-2021/

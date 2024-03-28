@@ -6,7 +6,7 @@ categories:
 - Philosophy
 - Tech Tips
 date: "2021-01-14T13:00:00Z"
-featuredImage: ./img/FOSS-feature-image.png
+featuredImage: ./img/FOSS-feature-image
 tags:
 - FOSS
 - Digital Freedom
@@ -27,7 +27,7 @@ Most software nowadays is built upon the code of FOSS software. Some of the big 
 
 ## The Four Essential Freedoms of Free Software
 
-{{< figure src="./img/fsf-logo.png" alt="Image: Free software foundation logo.">}}
+{{< figure src="./img/fsf-logo" alt="Image: Free software foundation logo.">}}
 
 The Free Software Foundation (FSF) states that free software must adhere to these 4 freedoms for the software to be considered FOSS:
 
@@ -50,7 +50,7 @@ Free software is the only software you can truly trust. This is why we try to re
 
 ## Limitations of Free Software
 
-{{< figure src="./img/Heartbleed.png" alt="Image: Heartbleed was a security vulnerability in the FOSS OpenSSL software.">}}
+{{< figure src="./img/Heartbleed" alt="Image: Heartbleed was a security vulnerability in the FOSS OpenSSL software.">}}
 
 Do you remember [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed)? This was a security vulnerability in OpenSSL that compromised a large part of the internet. OpenSSL is used by many companies, but the project had little money and only two full-time developers. These two developers had to maintain, test, and audit all the code. Naturally, they missed something.
 

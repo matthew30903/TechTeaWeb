@@ -4,7 +4,7 @@ authors:
 categories:
 - Year Review
 date: "2021-12-25T18:17:41Z"
-featuredImage: ./img/2021_Christmas_featureImage.png
+featuredImage: ./img/2021_Christmas_featureImage
 title: Merry Christmas
 aliases:
   - /merry-christmas/

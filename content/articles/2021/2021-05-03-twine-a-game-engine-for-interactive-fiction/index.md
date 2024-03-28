@@ -5,7 +5,7 @@ categories:
 - Game Development
 - Twine
 date: "2021-05-03T14:26:53Z"
-featuredImage: ./img/TwineIntro0_Cover.png
+featuredImage: ./img/TwineIntro0_Cover
 tags:
 - Cross-Platform
 - FOSS
