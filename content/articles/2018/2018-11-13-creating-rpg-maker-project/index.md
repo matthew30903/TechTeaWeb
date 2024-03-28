@@ -23,7 +23,7 @@ We need to make a new project before we can start making our game. To do so we h
 
 A dialogue box will ask you for the Project name, Game Title, and the Directory you wish to save it under.
 
-{{< figure src="./img/RPGMakerTutorialIntro1.png" alt="Image: Creating a New RPG Maker Project">}}
+{{< figure src="./img/RPGMakerTutorialIntro1" alt="Image: Creating a New RPG Maker Project">}}
 
 I will call the file MercenaryTutorial so it is easy to find, the game is going to be about a war so the working title will be The Great War (we will change it later), and we will save it where we can easily find it later.
 
@@ -31,7 +31,7 @@ I will call the file MercenaryTutorial so it is easy to find, the game is going 
 
 RPG Maker MV has a lot of powerful features tucked away in a relatively simple interface. When you open up your new project you will see a window that looks like this:
 
-{{< figure src="./img/RPGMakerTutorialIntro2.png" alt="Image: RPG Maker's Map Editor and Main Interface">}}
+{{< figure src="./img/RPGMakerTutorialIntro2" alt="Image: RPG Maker's Map Editor and Main Interface">}}
 
 ### Menu 
 At the top of the screen we have a menu bar. Most options should be familiar with you as they appear in other programs so I will only cover RPG Maker specific options.
@@ -69,7 +69,7 @@ The largest section of the window is the map and event editor. This is the secti
 
 If you click on a tile in the tileset pallet and enter map mode you can change the way the map looks. Give it a try.
 
-{{< figure src="./img/RPGMakerTutorialIntro3.png" alt="Image: Our beautiful RPG Maker Map">}}
+{{< figure src="./img/RPGMakerTutorialIntro3" alt="Image: Our beautiful RPG Maker Map">}}
 
 ### The Footer
 

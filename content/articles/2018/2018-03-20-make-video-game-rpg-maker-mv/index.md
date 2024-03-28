@@ -65,13 +65,13 @@ In our case we chose to build a 2D RPG so we will pick an engine that has great 
 
 ### [Godot](https://godotengine.org/)
 
-{{< figure src="./img/make_game_godot_animation_editor.jpg" alt="Image: Godot Animation Editor">}}
+{{< figure src="./img/make_game_godot_animation_editor" alt="Image: Godot Animation Editor">}}
 
 Godot is a free and open source (MIT) general purpose game engine for both 2D and 3D games. It has support for all major platforms (Linux, Mac, Android, Windows, FreeBSD, OpenBSD and Haiku and iOS) and multiple programming languages. The catch is that you will have to build most of your resources from scratch. Godot does some of the heavy lifting, but you will have to write the scripts and make the artwork yourself. Godot is not ready to make a RPG out of the box, but it is powerful enough to do so.
 
 ### [RPG Maker MV](http://www.rpgmakerweb.com/products/programs/rpg-maker-mv)
 
-{{< figure src="./img/make_game_rmmv_map_editor.png" alt="Image: RPG Maker Map Editor">}}
+{{< figure src="./img/make_game_rmmv_map_editor" alt="Image: RPG Maker Map Editor">}}
 
 The latest release in the RPG Maker series of engines, RPG Maker MV is a proprietary engine that supports all major platforms and utilizes JavaScript and HTML5 for programming. The engine is easier to use than Godot and is built for our particular task. All the functions for a RPG already exist and it comes with many resources prebuilt for our use. The catch is that it is proprietary, not as flexible without putting in effort, and costs money. That said there is no royalty fees and you are getting a lot of resources with it.
 

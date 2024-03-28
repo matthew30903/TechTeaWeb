@@ -18,7 +18,7 @@ slug: /ipconfig-a-guide/
 
 Sometimes we need to know our IP Address or troubleshoot internet connection issues. How do we do that? Well we have a handy tool built into Windows, ipconfig.
 
-{{< figure src="./img/ipconfig.png" alt="Image: ipconfig">}}
+{{< figure src="./img/ipconfig" alt="Image: ipconfig">}}
 
 ipconfig is a Windows command line utility and network troubleshooting tool. To access it you just need to open the windows command line by pressing start and typing in cmd.
 
