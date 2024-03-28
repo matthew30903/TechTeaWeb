@@ -23,6 +23,10 @@
       {{ partial "reviews/tea_review_template.html" . }}
     {{end}}
     
+    {{ if .Params.rating }}
+      <p>Rating: <span class="Stars" style="--rating: {{.Params.rating}};" aria-label="Rating of this product is {{ .Params.rating }} out of 5."></span></p>
+    {{ end }}
+
     {{ if .Params.location_obtained }}
       <p>Where I got it: {{ .Params.location_obtained }}</p>
     {{ end }}
