@@ -5,7 +5,7 @@ categories:
 - Android
 - Tech Tips
 date: "2020-10-22T20:21:34Z"
-featuredImage: ./img/openSourceAnrdroid_featuredImage.png
+featuredImage: ./img/openSourceAnrdroid_featuredImage
 tags:
 - Android
 - FOSS
@@ -22,7 +22,7 @@ Many of our devices run Android these days. You would think that it's [open sour
 
 ## App Store: [F-Droid](https://f-droid.org)
 
-{{< figure src="./img/openSourceAnrdroid_fdroid-1.png" alt="Image: F-droid: the open source Android marketplace">}}
+{{< figure src="./img/openSourceAnrdroid_fdroid-1" alt="Image: F-droid: the open source Android marketplace">}}
 
 F-Droid is an open source alternative to the Google Play store. It is an app repository containing only open source apps. Most of the apps on this list are available on F-Droid.
 
@@ -34,7 +34,7 @@ Features:
 
 ## Messaging: [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
-{{< figure src="./img/openSourceAnrdroid_signal.png" alt="Image: F-Signal is a messaging app that respects your privacy">}}
+{{< figure src="./img/openSourceAnrdroid_signal" alt="Image: F-Signal is a messaging app that respects your privacy">}}
 
 Signal is a secure messaging app that uses end-to-end encryption to protect your texts and calls. Edward Snowden and Jack Dorsey endorse it for its secure and open source nature. This is the top recommendation for messaging app from us here.
 
@@ -47,7 +47,7 @@ Features:
 
 ## Email Client: [FairEmail](https://f-droid.org/en/packages/eu.faircode.email/)
 
-{{< figure src="./img/openSourceAnrdroid_fairEmail.png" alt="Image: FairEmail is an all in one email client">}}
+{{< figure src="./img/openSourceAnrdroid_fairEmail" alt="Image: FairEmail is an all in one email client">}}
 
 Why use Gmail when you can use a privacy focused email client like FairEmail? FairEmail lets you check all your email accounts in one place. Not only is the app free and open source, it's the best Android email client I've ever used.
 
@@ -59,7 +59,7 @@ Features:
 
 ## Web Browser: [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 
-{{< figure src="./img/openSourceAnrdroid_firefox.png" alt="Image: Firefox for Android">}}
+{{< figure src="./img/openSourceAnrdroid_firefox" alt="Image: Firefox for Android">}}
 
 Most Android phones come with Chrome installed by default, but Firefox for Android has developed into a very competent browser. Firefox is open source, privacy focused, and fast. Mozilla has been going through a rough time over the last few years, but Firefox is still my top browser for Android.
 
@@ -70,7 +70,7 @@ Features:
 
 ## YouTube: [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe)
 
-{{< figure src="./img/openSourceAnrdroid_newPipe.png" alt="Image: NewPipe the YouTube alternative for Android">}}
+{{< figure src="./img/openSourceAnrdroid_newPipe" alt="Image: NewPipe the YouTube alternative for Android">}}
 
 NewPipe is the only open source alternative to YouTube I know of for Android. NewPipe is not an alternative network like Libry, it is a proper YouTube fronted. You can subscribe to channels, read comments, and use YouTube without google services or logging in. It's only available on F-Droid.
 
@@ -81,7 +81,7 @@ Features:
 
 ## Android Utility Apps: [Simple Mobile Tools Apps](https://www.simplemobiletools.com)
 
-{{< figure src="./img/openSourceAnrdroid_simpleApps.png" alt="Image: Simple Mobile Tools provides open source alternatives to many of Android's built in apps">}}
+{{< figure src="./img/openSourceAnrdroid_simpleApps" alt="Image: Simple Mobile Tools provides open source alternatives to many of Android's built in apps">}}
 
 No collection of open source Android alternatives would be complete without mentioning Simple Apps. This developer created many small alternatives to the built-in apps that come with Android. [Contacts](https://f-droid.org/en/packages/com.simplemobiletools.contacts.pro/), [Calendar](https://f-droid.org/en/packages/com.simplemobiletools.calendar.pro/), [Phone](https://f-droid.org/en/packages/com.simplemobiletools.dialer/), and more are all here and available for free on F-Droid. These apps are not the most feature field, but they get the job done and keep Google and other parties from spying on you.
 

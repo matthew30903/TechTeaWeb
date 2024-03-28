@@ -5,7 +5,7 @@ categories:
 - Tech Tips
 - Windows
 date: "2020-09-20T12:30:00Z"
-featuredImage: ./img/choco_CLIFeaturedImage-1.png
+featuredImage: ./img/choco_CLIFeaturedImage-1
 tags:
 - Command Line
 - FOSS
@@ -60,7 +60,7 @@ To install an application, we'll need to run a simple command in an Administrato
 
 To install Firefox, we would run the command ```choco install firefox```.
 
-{{< figure src="./img/choco_CLIInstallSoftware.png" alt="Image: Installing Firefox with Chocolatey">}}
+{{< figure src="./img/choco_CLIInstallSoftware" alt="Image: Installing Firefox with Chocolatey">}}
 
 Each time you install an application, Chocolatey will prompt you for permission to run a script. You can press "Y" and then "ENTER" to run the script, or "A" to run all scripts that will be run as a result of the command. Using the All function can be very useful when installing multiple packages at once.
 
@@ -72,7 +72,7 @@ Uninstalling applications is just like installing them in Chocolatey:
 
 So to uninstall Firefox we could simply type ```choco uninstall firefox```. 
 
-{{< figure src="./img/choco_CLIUninstallSoftware.png" alt="Image: Uninstalling Firefox with Chocolatey">}}
+{{< figure src="./img/choco_CLIUninstallSoftware" alt="Image: Uninstalling Firefox with Chocolatey">}}
 
 This will remove the program from your system, but make sure you read the script description carefully, as there might be other steps for removing the software you have installed.
 
@@ -84,7 +84,7 @@ Updating applications in Chocolatey is just like the other commands, but with a 
 
 This can take a while, so you might want to upgrade the packages you need right way first before using an "all" command. Chocolatey will only update the applications that aren't already up-to-date, so you don't have to worry about redownloading everything.
 
-{{< figure src="./img/choco_CLIUpgradeSoftware.png" alt="Image: Updating all packages with Chocolatey">}}
+{{< figure src="./img/choco_CLIUpgradeSoftware" alt="Image: Updating all packages with Chocolatey">}}
 
 ### Finding Software 
 
@@ -98,7 +98,7 @@ If you only type "choco search" it will look at all software in the repo.
 
 "choco search node" will look something like this:
 
-{{< figure src="./img/choco_CLIFindingSoftware.png" alt="Image: Searching Chocolatey repo for software">}}
+{{< figure src="./img/choco_CLIFindingSoftware" alt="Image: Searching Chocolatey repo for software">}}
 
 There are many other commands, but they will be covered in a future article.
 

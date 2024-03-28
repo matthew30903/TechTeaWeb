@@ -5,7 +5,7 @@ categories:
 - Tech Tips
 - Windows
 date: "2020-11-04T11:30:00Z"
-featuredImage: ./img/choco_GUIFeaturedImage.png
+featuredImage: ./img/choco_GUIFeaturedImage
 tags:
 - Command Line
 - FOSS
@@ -33,7 +33,7 @@ You can find Chocolatey GUI in the start menu once the installation is finished.
 
 ## Navigating Chocolatey GUI
 
-{{< figure src="./img/choco_GUIOverview.png" alt="Image: Chocolatey GUI Overview.">}}
+{{< figure src="./img/choco_GUIOverview" alt="Image: Chocolatey GUI Overview.">}}
 
 The GUI is split into 3 major section:
 
@@ -43,7 +43,7 @@ The GUI is split into 3 major section:
 
 ### Finding and Installing Packages
 
-{{< figure src="./img/choco_GUIfindingAndIndstallingPackages.png" alt="Image: Finding and installing Packages in Chocolatey GUI.">}}
+{{< figure src="./img/choco_GUIfindingAndIndstallingPackages" alt="Image: Finding and installing Packages in Chocolatey GUI.">}}
 
 Installing packages takes just a few easy steps in the Chocolatey GUI. 
 
@@ -53,13 +53,13 @@ Installing packages takes just a few easy steps in the Chocolatey GUI.
 
 ### Removing Packages
 
-{{< figure src="./img/choco_GUIRemovingPackages.png" alt="Image: Removing Packages in Chocolatey GUI.">}}
+{{< figure src="./img/choco_GUIRemovingPackages" alt="Image: Removing Packages in Chocolatey GUI.">}}
 
 To remove a package you installed in with Chocolatey, you can right click on the package and click "Uninstall". This can be done from either "This PC" or in the repo tabs on the sidebar. You can also do this from the details view.
 
 ### Updating Packages
 
-{{< figure src="./img/choco_GUIupdatePackages.png" alt="Image: Updating Packages in Chocolatey GUI.">}}
+{{< figure src="./img/choco_GUIupdatePackages" alt="Image: Updating Packages in Chocolatey GUI.">}}
 
 Chocolatey GUI allows you to both update packages individually or all at once. You can update all your packages with the button on the tool bar next to the refresh button. It looks just like the refresh button, but has an asterisk next to it. You can update a package individually the same way you can uninstall or install one, either by right clicking or on the details page.
 
@@ -67,7 +67,7 @@ Chocolatey GUI allows you to both update packages individually or all at once. Y
 
 ### The Details Page
 
-{{< figure src="./img/choco_GUIpackageDetails.png" alt="Image: Package Details in Chocolatey GUI.">}}
+{{< figure src="./img/choco_GUIpackageDetails" alt="Image: Package Details in Chocolatey GUI.">}}
 
 There is a lot that you can do with Chocolatey, and the GUI makes it easier in some ways.
 

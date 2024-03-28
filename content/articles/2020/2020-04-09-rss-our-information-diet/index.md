@@ -5,7 +5,7 @@ categories:
 - Introduction to Computers
 - Tech Tips
 date: "2020-04-09T18:22:30Z"
-featuredImage: ./img/RSS-Cover.jpg
+featuredImage: ./img/RSS-Cover
 tags:
 - FOSS
 - Open Source
@@ -43,7 +43,7 @@ The first thing you need in order to filter your information intake is a Feed Re
 
 [Feedly](https://feedly.com/i/welcome) is one of the most popular readers on the market, and supports web and mobile platforms.
 
-{{< figure src="./img/feedly_main_ui.png" alt="Image: Feedly Main Feed">}}
+{{< figure src="./img/feedly_main_ui" alt="Image: Feedly Main Feed">}}
 
 Feedly already has an excellent <a rel="noreferrer noopener" href="https://blog.feedly.com/get-the-right-content-on-your-feedly/" target="_blank">tutorial on their website</a>, so we won't cover too much here. Unfortunately, advanced filtering of your feed is limited to a payed account. You also have to trust an online service to not filter your results and respect your privacy. If all you want is to curate your news by source, this is a great way to do it.
 
@@ -55,7 +55,7 @@ If you need more power and a healthier relationship with you phone, you can use 
 
 To add a RSS feed to Thunderbird, you will first have to make a Feed Account. Click the Menu -> New -> Feed Account... and then name your RSS Folder. 
 
-{{< figure src="./img/thunderbird_add_feed.png" alt="Image: Add a Feed to Thunderbird">}}
+{{< figure src="./img/thunderbird_add_feed" alt="Image: Add a Feed to Thunderbird">}}
 
 Click on your account folder to add and manage feed subscriptions. It's rather straightforward; you take the URL of a feed and paste it into the Feed URL box, chose the folder you want to store the articles in, decide if you want to load the whole article or only a summery, and how often it should check for updates. 
 
@@ -63,7 +63,7 @@ Click on your account folder to add and manage feed subscriptions. It's rather s
 
 [QuietRSS](https://quiterss.org/en/download)</a> is a free and open source desktop RSS reader. Quiet is simple and easy to use, as it is a dedicated RSS reader. It also has an integrated web browser for viewing articles from the source, something Thunderbird lacks without extensions. It is available for Linux, Mac, and Windows.
 
-{{< figure src="./img/quiet_rss_add_feed.png" alt="Image: Add a Feed to QuietRSS">}}
+{{< figure src="./img/quiet_rss_add_feed" alt="Image: Add a Feed to QuietRSS">}}
 
 You can click on the Plus icon to add a new article to your feed in Quiet. Then select Next to pick a folder to store your feed in.
 
@@ -75,7 +75,7 @@ Now that you have narrowed down your news sources, you might be thinking "We're 
 
 Both Thunderbird and Quiet have very similar filter support. The main difference is Quiet lets you filter by feed if so desired. 
 
-{{< figure src="./img/rss-filters-quiet-thunderbird.png" alt="Image: QuietRSS and Thunderbird Filters" caption="Quiet (left) and Thunderbird (right)">}}
+{{< figure src="./img/rss-filters-quiet-thunderbird" alt="Image: QuietRSS and Thunderbird Filters" caption="Quiet (left) and Thunderbird (right)">}}
 
 You select a condition like Title/Subject contains Zoom, then an action such as Delete. Filters are rather simple, but can be very useful.
 
