@@ -20,7 +20,7 @@ Update 2023-06-29: If you insist on using Windows then you can use the PowerToys
 
 When it comes to Windows, the way you start your programs is not always the fastest. Normally you would click a desktop icon, task bar launcher, or go under the start menu. This method is not bad, however there is a better way to do it.
 
-{{< figure src="./img/Launchy.png" alt="Launchy Image">}}
+{{< figure src="./img/Launchy" alt="Launchy Image">}}
 
 
 Launchy is a wonderful application launcher that gives you access to your programs with a few keystrokes. Launchy will find every program that installed on your computer, even if you can't find it in your program files directory. The basics of how it works is simple, you press the keyboard shortcut to activate Launchy, then you start to type in the name of the program you want to launch. You do not even need to type out the whole name of the program you wish to use, I can type ff for Firefox or ch for Google Chrome.

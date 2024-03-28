@@ -18,7 +18,7 @@ There are times when things break or stop working, this is a reality we all fac
 
 ## CCleaner
 
-{{< figure src="./img/ccleaner.png" alt="CCleaner Image">}}
+{{< figure src="./img/ccleaner" alt="CCleaner Image">}}
 
 CCleaner is one of the first programs that I hear when computer maintenance is mentioned.  CCleaner is a simple program that has some great features.
 
@@ -30,7 +30,7 @@ CCleaner is freely available here(Link Removed) and is under the Freemium Licens
 
 ## Malwarebytes
 
-{{< figure src="./img/MalwarebytesAnti-Malware.png" alt="Malwarebytes Image">}}
+{{< figure src="./img/MalwarebytesAnti-Malware" alt="Malwarebytes Image">}}
 
 Now this is a tool that I do not use often, however when a computer gets malware this is the tool for the job. I have not used it much, but I have experienced some ransomware that my anti-virus did not detect till it was to late. Boot up in safe mode and run this and it will remove many forms of malware.
 
@@ -42,7 +42,7 @@ Malwarebytes is freely available here(Link Removed).
 
 ## Comodo Internet Security
 
-{{< figure src="./img/comodo-internet-security.png" alt="Comodo Internet Security Image">}}
+{{< figure src="./img/comodo-internet-security" alt="Comodo Internet Security Image">}}
 
 Anti-virus and Firewall are a very personal choice. Comodo is my personal recommendation. Comodo Internet Security is a free security suite that includes a Firewall and Anti-virus.
 

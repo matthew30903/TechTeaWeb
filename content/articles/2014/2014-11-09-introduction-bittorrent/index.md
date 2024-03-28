@@ -27,7 +27,7 @@ Using this “swarm” of computers allows for faster download speed as you get 
 Carmen Carmack from [HowStuffWorks.com](http://www.howstuffworks.com/) gives a general rundown of the process:
 
 
-{{< figure src="./img/Torrent_Example.jpg" alt="Image: Traditional Download vs. Torrent">}}
+{{< figure src="./img/Torrent_Example" alt="Image: Traditional Download vs. Torrent">}}
 
 > *   You open a Web page and click on a link for the file you want.
 > *   BitTorrent client software communicates with a **tracker** to find other computers running BitTorrent that have the complete file (**seed** computers) and those with a portion of the file (peers that are usually in the process of downloading the file).
@@ -41,13 +41,13 @@ First you will need to go to the Deluge [website here.](http://deluge-torrent.or
 
 Once it is done downloading and installing start it up. You should see something like this:
 
-{{< figure src="./img/Deluge.png" alt="Image: Deluge User Interface">}}
+{{< figure src="./img/Deluge" alt="Image: Deluge User Interface">}}
 
 As you can see it is a fairly straightforward interface. You have a traditional menu at the top as well as a tool bar that allows to add, delineate, pause, start, move up and down torrents in the queue, and open up the Preferences panel. The left most panel gives an overview of all torrent and tracker activity. On the right there is a panel that shoes all torrents and allows you to click on them to view more information in the bottom panel. On the bottom is all of the data about the selected torrent. Here you can see how much of the torrent you have, what files you have downloaded, how many peers are connected and how much of the file they have, and options that are specific to the individual torrent. We will go through each of these in depth later, but first we will need a Torrent file to download.
 
 You can use any torrent file you wish, but for this example we will be downloading the Debian live CD. For this example we will be using the amd64 CD release. Debian is a Linux Distribution that is completely legal to download. You can get it [here.](https://www.debian.org/CD/torrent-cd/ "debian")
 
-{{< figure src="./img/Deluge_Download.png" alt="Image: Deluge Download User Interface">}}
+{{< figure src="./img/Deluge_Download" alt="Image: Deluge Download User Interface">}}
 
 You should be able to open the file in Deluge right from the browser so there is no reason to save the file. This file is information that Deluge needs to download the Debian ISO image, not the ISO itself. Once it opens in Deluge you should see a screen similar to the image on the right.
 
