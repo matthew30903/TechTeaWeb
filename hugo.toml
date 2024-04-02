@@ -39,9 +39,9 @@ pluralizelisttitles = false
     rss_section = "articles"
 
     # Hex colors for your sidebar.
-    sidebar_bg_color = "#202020"            # default is #202020
+    sidebar_bg_color = "#7d6b57"            # default is #202020
     sidebar_img_border_color = "#515151"    # default is #515151
-    sidebar_p_color = "#909090"             # default is #909090
+    sidebar_p_color = "#222"             # default is #909090
     sidebar_h1_color = "#FFF"               # default is #FFF
     sidebar_a_color = "#FFF"                # default is #FFF
     sidebar_socials_color = "#FFF"          # default is #FFF
@@ -50,16 +50,22 @@ pluralizelisttitles = false
 
     # Hex colors for your content in light mode.
     text_color = "#222"             # default is #222
-    content_bg_color = "#FAF9F6"    # default is #FAF9F6
+    content_bg_color = "#d9d0b4"    # default is #FAF9F6
     post_title_color = "#303030"    # default is #303030
     list_color = "#222"          # default is #5a5a5a
-    link_color = "#268bd2"          # default is #268bd2
+    link_color = "#666b5e"          # default is #268bd2
     date_color = "#515151"          # default is #515151
     table_border_color = "#E5E5E5"  # default is #E5E5E5
     table_stripe_color = "#F9F9F9"  # default is #F9F9F9
 
     # Hex colors for your content in dark mode  
     sidebar_bg_color_dark = "#202020"
+    sidebar_img_border_color_dark = "#515151"    # default is #515151
+    sidebar_p_color_dark = "#909090"             # default is #909090
+    sidebar_h1_color_dark = "#FFF"               # default is #FFF
+    sidebar_a_color_dark = "#FFF"                # default is #FFF
+    sidebar_socials_color_dark = "#FFF"          # default is #FFF  
+
     text_color_dark = "#eee"                # default is #eee
     content_bg_color_dark = "#121212"       # default is #121212
     post_title_color_dark = "#DBE2E9"       # default is #DBE2E9
