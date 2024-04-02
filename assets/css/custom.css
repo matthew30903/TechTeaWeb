@@ -41,7 +41,7 @@
 /* Body with of articles on desktop */
 @media (min-width: 64em) {
     .content {
-      max-width: 50rem;
+      max-width: 58rem;
       margin-left: 1.75rem;
       margin-right: 2rem;
     }
@@ -71,5 +71,23 @@
       -webkit-text-fill-color: transparent;
     }
   }
-
 /* End Star Ranking CSS */
+
+.homepage-posts {
+
+  display:flex;
+  flex-wrap:wrap;
+  list-style-type: none;
+}
+
+.homepage-posts > * {
+  width:100%;
+  padding:1rem;
+}
+
+@media (min-width:64em)
+{
+  .homepage-posts > * {
+    width: calc(100% / 3);
+  }
+}
