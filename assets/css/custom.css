@@ -91,3 +91,12 @@
     width: calc(100% / 3);
   }
 }
+
+.content pre {
+  color: #ff7f7f;
+  background-color: #393D47 !important;
+}
+.content pre code {
+  color: #ff7f7f;
+  background-color: #393D47;
+}
