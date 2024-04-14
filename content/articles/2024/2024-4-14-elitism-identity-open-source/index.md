@@ -17,7 +17,7 @@ As with any community there are a few people in the Linux and FOSS world have th
 
 These people are impossible to reason with and poison people's opinion of Linux and the software we use. Unfortunately they are the loudest bunch.
 
-Ruben Schade recently posted on the Fediversee about how Windows users have the right to complain about the enshitification of the Windows operating system. He was calling for empathy for the people who have no choice but to run Windows. The responses were so awful he had to make a [post on his blog](https://rubenerd.com/people-who-need-to-run-windows/) addressing them. Kev Quirk also posted about the immaturity of these folks on his [blog](https://kevquirk.com/linux-elitism-again). Even one of the admins, [@pamela](https://bsd.network/@pamela/), had to publicly announce that they had to block and ban people from the instance because of bad behavior relating to Ruben's post.
+Ruben Schade recently posted on the Fediverse about how Windows users have the right to complain about the enshitification of the Windows operating system. He was calling for empathy for the people who have no choice but to run Windows. The responses were so awful he had to make a [post on his blog](https://rubenerd.com/people-who-need-to-run-windows/) addressing them. Kev Quirk also posted about the immaturity of these folks on his [blog](https://kevquirk.com/linux-elitism-again). Even one of the admins, [@pamela](https://bsd.network/@pamela/), had to publicly announce that they had to block and ban people from the instance because of bad behavior relating to Ruben's post.
 
 How can one expect someone to join a community that actively mocks and ridicules them?
 
