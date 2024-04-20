@@ -100,3 +100,8 @@
   color: #ff7f7f;
   background-color: #393D47;
 }
+
+hr {
+  border-top: 2px solid var(--text-color);
+  border-bottom: 1px solid var(--text-color);
+}
