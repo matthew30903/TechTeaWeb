@@ -1,0 +1,125 @@
+---
+- Name: Manuel Moreale
+  Description: Manuel blogs a lot about blogging, the personal web, and random moments in his life. He is one of the first blogs I found when discovering the IndieWeb.
+  Website: https://manuelmoreale.com 
+  RSS: https://manuelmoreale.com/feed/rss
+- Name: Nicco Loves Linux
+  Description: Nicco is a Youtuber and KDE developer who covers a lot of KDE developments, Linux in general, and is all around a nice guy. He is sometimes political, but generally it is related to human rights and in theory shouldn't be controversial.
+  RSS: https://blog.nicco.love/rss/
+  Website: https://blog.nicco.love/
+- Name: Max Böck
+  Description:
+  RSS: https://mxb.dev/feed.xml
+  Website: https://mxb.dev
+- Name: Chris Coyier
+  Description:
+  RSS: https://chriscoyier.net/feed/
+  Website: https://chriscoyier.net/
+- Name: daverupert.com
+  Description:
+  RSS: https://daverupert.com/atom.xml
+  Website: https://daverupert.com
+- Name: James' Coffee Blog
+  Description: James posts about the IndieWeb, AI vision, his insecurities, coffee, and a little bit of everything else. His blog is really well thought out and very personal. I still need to catch up on all his recent posts, but they are always worth reading.
+  RSS: https://jamesg.blog/feeds/posts.xml
+  Website: https://jamesg.blog/
+- Name: Rubenerd
+  Description: Ruben Schade covers a little bit of everything; BSD, life in Sydney, blogging, geek culture, retro tech, and more. He usually covers things with a good amount of wit and snark so it is always fun to read. 
+  RSS: https://rubenerd.com/feed/
+  Website: https://rubenerd.com/
+- Name: Matthias Ott
+  Description:
+  RSS: https://matthiasott.com/feed
+  Website: ''
+- Name: Michał Sapka
+  Description:
+  RSS: https://michal.sapka.me/index.xml
+  Website: https://michal.sapka.me/
+- Name: Kev Quirk
+  Description:
+  RSS: https://kevquirk.com/feed.rss
+  Website: https://kevquirk.com
+- Name: Home on TechTea
+  Description:
+  RSS: https://techtea.io/index.xml
+  Website: https://techtea.io/
+- Name: Trafotin
+  Description:
+  RSS: https://trafotin.com/index.xml
+  Website: https://trafotin.com/
+- Name: VKC.sh | Veronica Explains
+  Description:
+  RSS: https://vkc.sh/feed/
+  Website: https://vkc.sh
+- Name: Yukinu's Blog
+  Description:
+  RSS: http://yukinu.com/feed/rss.xml
+  Website: https://yukinu.com/
+- Name: Terence Eden's Blog
+  Description:
+  RSS: https://shkspr.mobi/blog/feed/atom/
+  Website: https://shkspr.mobi/blog
+- Name: Brain Baking
+  Description:
+  RSS: https://brainbaking.com/index.xml
+  Website: https://brainbaking.com/
+- Name: Minutes to Midnight RSS feed
+  Description:
+  RSS: https://minutestomidnight.co.uk/feed.xml
+  Website: https://minutestomidnight.co.uk
+- Name: 'Starbreaker'
+  Description: Starbreaker's personal blog covers a little of everything from the personal web to politics. He also writes fiction, but I have yet to read any. He is one of the first blogs I found when discovering the personal/IndieWeb. He rarely holds anything back so I would say don't read if you are thin skinned or on a work computer.
+  RSS: https://starbreaker.org/feed.xml
+  Website: https://starbreaker.org
+- Name: Jim Nielsen's Blog
+  Description:
+  RSS: https://blog.jim-nielsen.com/feed.xml
+  Website: https://blog.jim-nielsen.com
+- Name: Rach Smith's digital garden
+  Description:
+  RSS: https://rachsmith.com/rss/
+  Website: https://rachsmith.com/
+- Name: Lynn Fisher
+  Description:
+  RSS: https://lynnandtonic.com/feed.xml
+  Website: https://lynnandtonic.com
+- Name: Chris Aldrich
+  Description:
+  RSS: https://boffosocko.com/feed/
+  Website: https://boffosocko.com
+- Name: Ana Rodrigues
+  Description:
+  RSS: https://ohhelloana.blog/feed.xml
+  Website: https://ohhelloana.blog/feed.xml
+- Name: James Savage
+  Description:
+  RSS: https://axiixc.com/feed.xml
+  Website: https://axiixc.com/
+- Name: ntietz.com blog
+  Description:
+  RSS: https://www.ntietz.com/atom.xml
+  Website: https://ntietz.com/atom.xml
+- Name: "garrit.xyz"
+  Description:
+  RSS: https://garrit.xyz/rss.xml
+  Website: https://garrit.xyz
+- Name: Sara Joy
+  Description:
+  RSS: https://sarajoy.dev/rss.xml
+  Website: https://sarajoy.dev/
+- Name: "Devastatia"
+  Description: Devastatia's website is NSFW in a self-aware edgy kind of way and I see it as a bit of a parody of everything the corporate hates. If you are uncomfortable with images of scantly clad women and sexual language I'd say you might not want to read her stuff. She talks a lot about the web as a whole, some mild politics, and philosophy. There is a lot of insight on her site if you look past the sexual humor. 
+  RSS: https://devastatia.com/rss
+  Website: https://devastatia.com/
+- Name: Robb Knight's Blog
+  Description:
+  RSS: https://rknight.me/subscribe/posts/rss.xml
+  Website: https://rknight.me
+- Name: Cory Dransfeldt
+  Description:
+  RSS: https://feedpress.me/coryd
+  Website: https://coryd.dev/feeds
+- Name: Frills
+  Description:
+  RSS: https://frills.dev/all.xml
+  Website: https://frills.dev/
