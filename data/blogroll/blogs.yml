@@ -8,15 +8,15 @@
   RSS: https://blog.nicco.love/rss/
   Website: https://blog.nicco.love/
 - Name: Max Böck
-  Description:
+  Description: Max Böck writes infrequent, but well thought out posts about the web. 
   RSS: https://mxb.dev/feed.xml
   Website: https://mxb.dev
 - Name: Chris Coyier
-  Description:
+  Description: Chris Coyier used to own CSS-Tricks so you know he has some insight into the web. His blog is a good mix of personal posts, dev tricks, and random tech stuff. 
   RSS: https://chriscoyier.net/feed/
   Website: https://chriscoyier.net/
-- Name: daverupert.com
-  Description:
+- Name: Dave Rupert
+  Description: Dave Rupert talks about web dev and his life. He also keeps a nice page documenting all the books he has read and a page with his own stories he has written. I need to catch up on his stuff as I've not been checking his feed as often as some others. 
   RSS: https://daverupert.com/atom.xml
   Website: https://daverupert.com
 - Name: James' Coffee Blog
@@ -39,10 +39,6 @@
   Description:
   RSS: https://kevquirk.com/feed.rss
   Website: https://kevquirk.com
-- Name: Home on TechTea
-  Description:
-  RSS: https://techtea.io/index.xml
-  Website: https://techtea.io/
 - Name: Trafotin
   Description:
   RSS: https://trafotin.com/index.xml
@@ -60,7 +56,7 @@
   RSS: https://shkspr.mobi/blog/feed/atom/
   Website: https://shkspr.mobi/blog
 - Name: Brain Baking
-  Description:
+  Description: Wouter Groeneveld's blog. Covers a lot of different tech things, but also a little bit of everything else ranging from academia to personal things. One of the first blogs I found on the IndieWeb and a great read.
   RSS: https://brainbaking.com/index.xml
   Website: https://brainbaking.com/
 - Name: Minutes to Midnight RSS feed
@@ -84,11 +80,11 @@
   RSS: https://lynnandtonic.com/feed.xml
   Website: https://lynnandtonic.com
 - Name: Chris Aldrich
-  Description:
+  Description: Chris Aldrich's website is interesting. It is an online commonplace book. He links to a lot, logs a little bit of everything, and is all around a strange place online. I don't read it much, but I find the idea very interesting.
   RSS: https://boffosocko.com/feed/
   Website: https://boffosocko.com
 - Name: Ana Rodrigues
-  Description:
+  Description: Ana Rodrigues' website is a mix of personal posts, short thoughts, web dev notes, and bookmarks. 
   RSS: https://ohhelloana.blog/feed.xml
   Website: https://ohhelloana.blog/feed.xml
 - Name: James Savage
@@ -116,9 +112,9 @@
   RSS: https://rknight.me/subscribe/posts/rss.xml
   Website: https://rknight.me
 - Name: Cory Dransfeldt
-  Description:
+  Description: Cory Dransfeldt writes a lot about tech and philosophy related to tech, but also includes personal posts. Really good reads from what I've seen.
   RSS: https://feedpress.me/coryd
-  Website: https://coryd.dev/feeds
+  Website: https://coryd.dev/
 - Name: Frills
   Description:
   RSS: https://frills.dev/all.xml
