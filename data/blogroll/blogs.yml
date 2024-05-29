@@ -32,35 +32,35 @@
   RSS: https://matthiasott.com/feed
   Website: ''
 - Name: Michał Sapka
-  Description:
+  Description: Michał Sapka writes about media he watches, BSD, Emacs, and tech in general. I've not read enough of his stuff to really say much on the his media posts, but I have read some of his other posts and they are good. 
   RSS: https://michal.sapka.me/index.xml
   Website: https://michal.sapka.me/
 - Name: Kev Quirk
-  Description:
+  Description: Kev Quirk really makes his website personal and it is wonderful for that. He talks about tech, his hobbies (including the website), and his life in general.
   RSS: https://kevquirk.com/feed.rss
   Website: https://kevquirk.com
 - Name: Trafotin
-  Description:
+  Description: Trafotin is a YouTuber who makes tech videos. A lot of them are centered around Linux and open source. I don't watch all of his videos, but he has some interesting tech videos.
   RSS: https://trafotin.com/index.xml
   Website: https://trafotin.com/
-- Name: VKC.sh | Veronica Explains
-  Description:
+- Name: Veronica Explains
+  Description: Veronica runs a PeerTube/YouTube channel about tech as well as a blog that companies her videos. She covers Linux tools, open source, and retro electronics. She gives off a friendly and welcoming vibe that the Linux space is often lacking.
   RSS: https://vkc.sh/feed/
   Website: https://vkc.sh
 - Name: Yukinu's Blog
-  Description:
+  Description: Yukinu writes about open source software with occasional posts about their other hobbies sprinkled in. I've not read everything yet, but their website is fairly interesting in design.
   RSS: http://yukinu.com/feed/rss.xml
   Website: https://yukinu.com/
 - Name: Terence Eden's Blog
-  Description:
+  Description: Terence Eden writes about tech, politics, reviews of products, and a little  bit of everything. He also has a great Library page of all the books he has read and reviewed. 
   RSS: https://shkspr.mobi/blog/feed/atom/
   Website: https://shkspr.mobi/blog
 - Name: Brain Baking
   Description: Wouter Groeneveld's blog. Covers a lot of different tech things, but also a little bit of everything else ranging from academia to personal things. One of the first blogs I found on the IndieWeb and a great read.
   RSS: https://brainbaking.com/index.xml
   Website: https://brainbaking.com/
-- Name: Minutes to Midnight RSS feed
-  Description:
+- Name: Simone Silvestroni's Minutes to Midnight
+  Description: Simone Silvestroni covers a lot of topics. A lot of he he posts is related to the IndieWeb, sustainability, accessibility, and music. One of the first sites I found during my initial exploration of the Indieweb. He also has his own music on his site so give that a listen.
   RSS: https://minutestomidnight.co.uk/feed.xml
   Website: https://minutestomidnight.co.uk
 - Name: 'Starbreaker'
@@ -68,15 +68,15 @@
   RSS: https://starbreaker.org/feed.xml
   Website: https://starbreaker.org
 - Name: Jim Nielsen's Blog
-  Description:
+  Description: Jim Nielsen talks a lot about tech as many of these blogs do, but he also has book notes and bits on culture as a whole. He also has been blogging for a while so his archive is fairly large, I've not made much of a dent in it yet. Another great personal website.
   RSS: https://blog.jim-nielsen.com/feed.xml
   Website: https://blog.jim-nielsen.com
-- Name: Rach Smith's digital garden
-  Description:
+- Name: Rach Smith's Digital Garden
+  Description: Rach Smith's website is full of little bits of wisdom, personal stories, and tech. She also keeps her website minimal while looking amazing. 
   RSS: https://rachsmith.com/rss/
   Website: https://rachsmith.com/
 - Name: Lynn Fisher
-  Description:
+  Description: Lynn updates her website every year with a fun and interesting design experiment. She is a master of interesting CSS. Her blog is split between a personal website blog and a more developer focused one.  
   RSS: https://lynnandtonic.com/feed.xml
   Website: https://lynnandtonic.com
 - Name: Chris Aldrich
@@ -88,19 +88,19 @@
   RSS: https://ohhelloana.blog/feed.xml
   Website: https://ohhelloana.blog/feed.xml
 - Name: James Savage
-  Description:
+  Description: James Savage posts a lot of Weeknotes. They are little posts with updates on what he did and what happened that week. I like the idea quite a bit.
   RSS: https://axiixc.com/feed.xml
   Website: https://axiixc.com/
-- Name: ntietz.com blog
-  Description:
+- Name: Nicole Tietz-Sokolskaya's Blog
+  Description: Nicole Tietz-Sokolskaya talks about everything from tech to mental health and life in general. A lot of good long form writing to be seen here. Give her some of your time. 
   RSS: https://www.ntietz.com/atom.xml
-  Website: https://ntietz.com/atom.xml
-- Name: "garrit.xyz"
-  Description:
+  Website: https://ntietz.com/
+- Name: "Garrit Franke"
+  Description: Garrit Franke posts about tech, but also life stuff like dive logs and notes on media he consumes. I haven't really dived deep into his stuff yet, but overall good from what I've seen.
   RSS: https://garrit.xyz/rss.xml
   Website: https://garrit.xyz
 - Name: Sara Joy
-  Description:
+  Description: Sara Joy does a lot with her website. She has a blog full of great long form content that is both personal and technical, but she also has a microblog for short posts and a section showing off her projects. It is a fun website for sure.
   RSS: https://sarajoy.dev/rss.xml
   Website: https://sarajoy.dev/
 - Name: "Devastatia"
@@ -108,7 +108,7 @@
   RSS: https://devastatia.com/rss
   Website: https://devastatia.com/
 - Name: Robb Knight's Blog
-  Description:
+  Description: Robb Knight writes a little about everything. He has many posts about music, video games, projects he is working on, and more. I think I found his site from a link to one of his projects on another blog, he makes a lot of cool things.
   RSS: https://rknight.me/subscribe/posts/rss.xml
   Website: https://rknight.me
 - Name: Cory Dransfeldt
@@ -116,6 +116,6 @@
   RSS: https://feedpress.me/coryd
   Website: https://coryd.dev/
 - Name: Frills
-  Description:
+  Description: Frills is a new addition added to my RSS feed. I found her via 32-bit Cafe. Her website captures a lot of the feel people want when they think positively about the old web. An awesome personal website.
   RSS: https://frills.dev/all.xml
   Website: https://frills.dev/
