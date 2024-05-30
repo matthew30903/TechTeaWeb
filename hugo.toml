@@ -12,6 +12,7 @@ pluralizelisttitles = false
     dark_mode = true                      # optional - defaults to false
     favicon = "/img/people/matthew_lamont.jpg"             # path to favicon (defaults to favicon.png)
     author = "Matthew"
+    author_url = "https://techtea.io"
     # MENU PLACEHOLDER
     # Menu dict keys:
         # Name:         The name to display on the menu.
