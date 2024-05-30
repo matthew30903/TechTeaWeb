@@ -9,16 +9,16 @@
         {{ end }}
     </ul>
     {{ end }}
-
-    <p>Author: </p>
+    
+    <p>Thoughts, comments, or just wanting to talk? Feel free to reach out to me via <a href="mailto:hello@mattlamont.com">email</a>.</p>
+    <p>Like what you see here, please consider supporting me on <a href="https://ko-fi.com/techtea">Ko-Fi</a> It is only $1/month and helps a lot.</p>
+    <hr>
     {{- range .Params.authors }}
         {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
         {{ partial "h-card.html" . }}
         {{ end }}
     {{ end }}
 
-    <p>Thoughts, comments, or just wanting to talk? Feel free to reach out to me via <a href="mailto:hello@mattlamont.com">email</a>.</p>
-    
     {{ if .Params.series }}
     {{ $Site := .Site }}
     {{ $postTitle := .Title }}
