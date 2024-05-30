@@ -18,6 +18,10 @@
     <!-- Add Webmentions Support -->
     <link rel="webmention" href="https://webmention.io/techtea.io/webmention" />
 
+    <!-- Add JSON Feed Support -->
+    <link
+      href="{{ with .OutputFormats.Get "jsonfeed"  }}{{ .Permalink }}{{ end }}"
+      rel="alternate" type="application/json" title="{{ .Site.Title }}" />
     <!-- META -->
     {{ partial "head/meta.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
