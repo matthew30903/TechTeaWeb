@@ -30,8 +30,8 @@ pluralizelisttitles = false
 
     # Links to your socials.  Comment or delete any you don't need/use. 
     github_url = "https://github.com/matthew30903"
-    mastodon_url = "https://social.techtea.io/@matthew"
     youtube_url = "https://www.youtube.com/@TechTeaWithMatthew"
+    email_url = "mailto:hello@mattlamont.com"
 
     # NOTE: If you don't want to use RSS, comment or delete the following lines
     # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml
