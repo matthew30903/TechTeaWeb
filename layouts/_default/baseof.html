@@ -4,8 +4,10 @@
             {{ partial "sidebar/sidebar.html" . }}
             <main class="content container">
                 {{ block "main" . -}}{{- end }}
+                {{ partial "footer.html" . }}
             </main>
             {{ block "sidebar" . }}{{ end }}
         </div>
+        
     </body>
 </html>

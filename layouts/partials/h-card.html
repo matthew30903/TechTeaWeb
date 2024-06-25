@@ -1,13 +1,11 @@
 <div class="h-card p-author">
-    {{ if .Params.photo }}
-        <img class="u-photo" alt="Drawing of Author's Face" src="{{.Params.photo}}"/>
-    {{ end }}
+    <img class="u-photo" alt="Drawing of Author's Face" src="/img/people/matthew_lamont.webp"/>
     <div class="h-card-info">
-        <span class="p-name">{{ .Params.p_given_name}} {{ .Params.p_family_name}}</span>
-        <span class="p-given-name" hidden="true">{{ .Params.p_given_name}}</span>
-        <span class="p-family-name" hidden="true">{{ .Params.p_family_name}}</span></span>
-        <a class="u-url" href="{{.Params.u_url}}">Website</a>,
+        <span class="p-name">{{ .Site.Params.author}}</span>
+        <span class="p-given-name" hidden="true">{{ .Site.Params.author}}}</span>
+        <span class="p-family-name" hidden="true">{{ .Site.Params.author}}</span>
+        <a class="u-url" href="{{.Site.Params.author_url}}">Website</a>,
         <a class="u-email" href="mailto:{{.Params.u_email}}">Email</a>
-        <div class="u-note">{{.Params.p_note}}</div>
+        <div class="u-note">I'm a tech enthusiast, advocate for personal digital sovereignty, strong supporter of FOSS Software, and lover of a good cup of tea. Learn more about me on my <a href="/about">about</a> page.</div>
     </div>
 </div>
