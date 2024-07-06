@@ -5,7 +5,7 @@ authors:
 - "Matthew Lamont"
 draft: false
 tags:
-  - Indie Web
+  - IndieWeb
   - Philosophy
   - AI
 slug: /arch-search-ai/

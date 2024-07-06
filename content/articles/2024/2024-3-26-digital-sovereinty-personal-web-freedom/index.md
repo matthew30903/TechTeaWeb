@@ -6,7 +6,7 @@ authors:
 draft: false
 tags:
   - Philosophy
-  - Indie Web
+  - IndieWeb
 slug: /digital-sovereinty-personal-web-freedom/
 keywords:
   - Personal Website

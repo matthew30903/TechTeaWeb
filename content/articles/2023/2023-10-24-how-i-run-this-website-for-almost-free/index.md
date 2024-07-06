@@ -8,7 +8,7 @@ categories:
   - Tech Tips
 featuredImage:
 tags:
-  - Indie Web
+  - IndieWeb
   - Web Dev
 slug: /how-run-this-website-for-free/
 keywords:
