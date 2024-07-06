@@ -16,12 +16,12 @@
     <link rel="icon" href={{ .Site.Params.favicon | default "/favicon.png" }}>
 
     <!-- Add Webmentions Support -->
-    <link rel="webmention" href="https://webmention.io/techtea.io/webmention" />
+    <link rel="webmention" href="https://webmention.io/techtea.io/webmention">
 
     <!-- Add JSON Feed Support -->
     <link
       href="{{ with .OutputFormats.Get "jsonfeed"  }}{{ .Permalink }}{{ end }}"
-      rel="alternate" type="application/json" title="{{ .Site.Title }}" />
+      rel="alternate" type="application/json" title="{{ .Site.Title }}">
     <!-- META -->
     {{ partial "head/meta.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
