@@ -2,7 +2,7 @@ baseURL = 'https://techtea.io/'
 languageCode = 'en-us'
 title = 'TechTea'
 theme = 'techtea-theme'
-paginate = 10
+paginatepaginate = 10
 pluralizelisttitles = false
 
 [params]
