@@ -15,6 +15,8 @@ keywords:
 description: Writing tools are near and dear to my heart. They are also near my desk, in my stationery drawer.
 ---
 
+Update: Wouter shared his [stationery drawers](https://brainbaking.com/post/2025/02/my-stationary-drawers/) in response to this post. Please share yours as well.
+
 While I'm not the biggest fan of consumerism I do love to see how people work. This often leads me down a rabbit hole looking at how people setup their offices, how they organize their drawers, and what things they have that improve their lives. I was thinking of doing one of those desk tour videos that I sometimes see on YouTube, but my desk is a mess. Instead I'll go over something that is near and dear to me, the stationery drawer under my desk.
 
 ## Stationery
