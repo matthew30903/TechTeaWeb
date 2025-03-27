@@ -7,5 +7,12 @@
         "Uncategorized"
     ],
     "[markdown]": {
-    }
+    },
+    "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+        "delimarsky",
+        "jatan",
+        "mehta",
+        "sapka",
+        "wouter"
+    ]
 }
