@@ -9,10 +9,22 @@
     "[markdown]": {
     },
     "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+        "bluesky",
         "delimarsky",
+        "devault",
+        "diederick",
+        "dransfeldt",
+        "einarsdóttir",
+        "ereader",
+        "graybosch",
+        "gurdy",
         "jatan",
+        "magga",
         "mehta",
         "sapka",
+        "silvestroni",
+        "truenas",
+        "venerandi",
         "wouter"
     ]
 }
