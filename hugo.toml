@@ -76,7 +76,7 @@ pluralizelisttitles = false
 
 [permalinks]
     [permalinks.page]
-        articles = '/articles/:year/:slugorfilename/'
+        articles = '/articles/:year/:slugorcontentbasename/'
     [permalinks.section]
         articles = '/articles/'
 
