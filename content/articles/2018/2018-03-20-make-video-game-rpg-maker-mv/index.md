@@ -41,13 +41,13 @@ Before we begin building our game we need to know the scope of our project, the 
 
 First we will get a general idea of what our story will be about. Some video games are more about the mechanics and some about the world they inhabit, but most start with a story the developer wishes to tell. For this reason we will focus first on a story and then build a world and mechanics that fit that story.
 
-> Lets say we want a game following a band of mercenaries who are about to be dragged into a war between two rival nations.</blockquote>
+> Lets say we want a game following a band of mercenaries who are about to be dragged into a war between two rival nations.
 
 ### Pick a medium
 
 Would this story play out best as a platformer? Perhaps a shooter? A grand strategy game? The genre we chose will greatly impact the rest of the decisions we make in development. The engine we use, the mechanics we design, and the way we flesh out our story all depend on how the game is played. An action game is going to have fewer cutseens and less dialogue than a RPG or Visual Novel. A RPG will be far more time consuming and costly to develop than a platformer.
 
-> With that in mind we will say that this will be a role playing game centered around one particular mercenary who is having second thoughts about the war.</blockquote>
+> With that in mind we will say that this will be a role playing game centered around one particular mercenary who is having second thoughts about the war.
 
 ### Define our scope
 
@@ -55,7 +55,7 @@ Now we need to decide the scope. Are we building a 100 hour epic or perhaps a 15
 
 You must have a realistic goal for your first game, many developers set impossible goals and give up under the pressure. We will be in a difficult position if we are to build a game 100 hour dream game in between work and taking care of the family for example.
 
-> Let’s imagine we are working full-time with no other responsibilities. After work each day we will dedicate an hour to game development. Our goal is to build a 1 hour long episodic 2D RPG telling the story of a mercenary as he fights through a war.</blockquote>
+> Let’s imagine we are working full-time with no other responsibilities. After work each day we will dedicate an hour to game development. Our goal is to build a 1 hour long episodic 2D RPG telling the story of a mercenary as he fights through a war.
 
 ## Pick an Engine
 
@@ -75,7 +75,7 @@ Godot is a free and open source (MIT) general purpose game engine for both 2D an
 
 The latest release in the RPG Maker series of engines, RPG Maker MV is a proprietary engine that supports all major platforms and utilizes JavaScript and HTML5 for programming. The engine is easier to use than Godot and is built for our particular task. All the functions for a RPG already exist and it comes with many resources prebuilt for our use. The catch is that it is proprietary, not as flexible without putting in effort, and costs money. That said there is no royalty fees and you are getting a lot of resources with it.
 
-<blockquote>Due to the cost of hiring artists and scripting we will use RPG Maker MV for this. It does cost more initially, but we can get away with using the default assets till we are ready to publish our game.</blockquote>
+<blockquote>Due to the cost of hiring artists and scripting we will use RPG Maker MV for this. It does cost more initially, but we can get away with using the default assets till we are ready to publish our game.
 
 ## Estimate Costs
 

@@ -40,14 +40,14 @@ Now the problems that come with the menu:
 
 The new search is everywhere in Windows 10 so there is no reason to use the default start menu there either. You could use an application launcher to search and launch programs instead.
 
-*   Then there is the problem of customization. Wist you can pin programs the menu as bulky live tiles, you can not change the menu's appearance much, other than accent color and its size.
+*   Then there is the problem of customization. While you can pin programs the menu as bulky live tiles, you can not change the menu's appearance much, other than accent color and its size.
 *   Some programs do not even show up in the apps menu. The uninstallers and sub-folders do not show up at all. How is one to be productive if they must make new program shortcuts for their programs and place them on the desktop or if they must go into the control panel whenever they wish to uninstall a program?
 
 ## How do we fix it?
 
 We can use Classic Shell. This is a free program that will add a new start menu and replace the old one. This will work on other versions of Windows so do not fell left out if you have not upgraded yet.
 
-The first thing that you need to do is download and install Classic Shell form their site here: <a href="http://www.classicshell.net/">http://www.classicshell.net/</a>
+The first thing that you need to do is download and install Classic Shell form their site here: [http://www.classicshell.net/](http://www.classicshell.net/)
 
 After the install you will be prompted with an options screen.
 
@@ -61,17 +61,17 @@ At this point you can hit OK if you do not want to go through the host of config
 
 The next option available to you is to replace the start button. You can change the start button (Start Orb). You have three options: Aero, the Classic Shell Logo; Classic, the Classic Shell Logo on what looks like a Windows 98 start button; and Custom, this is where you can get creative.
 
-Start orbs can be downloaded from websites like <a href="http://www.deviantart.com/browse/all/customization/?q=start%2520orb" target="_blank">Deviantart</a> or make yourself. They are images that have three frames, the first is when the menu is idle, the next is when the mouse is hovering over the button, the last is when the menu is open.
+Start orbs can be downloaded from websites like [Deviantart](http://www.deviantart.com/browse/all/customization/?q=start%2520orb) or make yourself. They are images that have three frames, the first is when the menu is idle, the next is when the mouse is hovering over the button, the last is when the menu is open.
 ### Basic Settings
 
 To get a little bit more power out of Classic Shell you can go to the Basic Settings tab. To some of you this may look like a lot, but it is only scratching the surface of what Classic Shell can do.
 
-As there are many options I will list them and what they do along with any comments or recommendations I have. I will be omitting self explanatory options.
+As there are many options I will list them and what they do along with any comments or recommendations I have. I will be omitting self-explanatory options.
 
 *   Shift + Click: Self Explanatory, Classic Star Menu is the one for Classic Shell, Windows Start is the default one of your OS. I recommend leaving this on the default menu as you never know when you will need it.
 *   All Programs style: Cascading will make the all programs menu multi-columned like in Windows XP and earlier. Inside main menu will have your programs in a scrollable list much like Windows 7.
 *   Show recent or frequent programs: On the bottom of the Classic Shell start menu you will have a list of programs, this setting allows you to choose what is displayed. Recent programs will show a list of the last run programs. Frequent programs lists the most used programs.
-*   Shutdown Command: This allows you to decide what the Shutdown button will do. There is a drop-down menu for the other options by default so this option is only useful if you need to default to something else a lot.
+*   Shutdown Command: This allows you to decide what the Shutdown button will do. There is a drop-down menu for the other options by default, so this option is only useful if you need to default to something else a lot.
 
 ### Skin
 

@@ -4,8 +4,6 @@ date: 2023-07-25T11:02:53-07:00
 draft: false
 authors: 
 - "Matthew Lamont"
-categories: 
-tags:
 keywords:
 description: TechTea is the personal website of Matthew Lamont where he explores tech, digital freedom, privacy, and tea.
 ---

@@ -51,14 +51,14 @@ You can add either one by simply clicking the "+ Add to Firefox" button.
 
 {{< figure src="./img/Firefox_Classic_Theme_Restorer_Options" alt="Image: Classic Theme Restorer Options">}}
 
-I have already gone over this extension [in the past](https://www.blog.mattlamont.com/how-to-restore-the-old-firefox-look-to-firefox-29/)</a>. Remember how I said that Firefox use to be more customizable? This plugin gives some of that customization back. You can change the style of tabs, the menus, and more importantly the search box. One of the biggest issues with the design direction in the newer Firefox is the search box functionality. The decision prevents you from quickly switching between search engines in favor for one click searching. In the Classic Theme Restorer options you can set the behavior back to a more useful state.
+I have already gone over this extension [in the past](https://www.blog.mattlamont.com/how-to-restore-the-old-firefox-look-to-firefox-29/). Remember how I said that Firefox use to be more customizable? This plugin gives some of that customization back. You can change the style of tabs, the menus, and more importantly the search box. One of the biggest issues with the design direction in the newer Firefox is the search box functionality. The decision prevents you from quickly switching between search engines in favor for one click searching. In the Classic Theme Restorer options you can set the behavior back to a more useful state.
 
 ### Stylish
 Keeping with the theme of Customization, Stylish allows you to to theme websites with custom CSS. Basically personas for websites. If you find that a website is too light or has a bad color scheme, you can change it yourself or in most cases find a theme that someone has already made for you. Though it is mostly cosmetic, it is useful to have and will surprise your friends when Google looks different.
 
 ### [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
-Moving away from cosmetics and into functionality, Greasemonkey is the Swiss Army Knife of extensions. It functions similarly to Stylish. By itself, Greasemonkey is useless, but by applying userscripts you can change anything on the web. Userscripts are like mini-extensions written in JavaScript. Some auto-load the next page on Google, wist others [change the way Facebook works](http://socialfixer.com/download.html) all together. You will have to work at this one for it to be useful, but useful it is.
+Moving away from cosmetics and into functionality, Greasemonkey is the Swiss Army Knife of extensions. It functions similarly to Stylish. By itself, Greasemonkey is useless, but by applying userscripts you can change anything on the web. Userscripts are like mini-extensions written in JavaScript. Some auto-load the next page on Google, while others [change the way Facebook works](http://socialfixer.com/download.html) all together. You will have to work at this one for it to be useful, but useful it is.
 
 ### VimFx
 

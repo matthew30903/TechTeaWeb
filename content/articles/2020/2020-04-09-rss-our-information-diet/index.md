@@ -45,7 +45,7 @@ The first thing you need in order to filter your information intake is a Feed Re
 
 {{< figure src="./img/feedly_main_ui" alt="Image: Feedly Main Feed">}}
 
-Feedly already has an excellent <a rel="noreferrer noopener" href="https://blog.feedly.com/get-the-right-content-on-your-feedly/" target="_blank">tutorial on their website</a>, so we won't cover too much here. Unfortunately, advanced filtering of your feed is limited to a payed account. You also have to trust an online service to not filter your results and respect your privacy. If all you want is to curate your news by source, this is a great way to do it.
+Feedly already has an excellent [tutorial on their website](https://blog.feedly.com/get-the-right-content-on-your-feedly/), so we won't cover too much here. Unfortunately, advanced filtering of your feed is limited to a payed account. You also have to trust an online service to not filter your results and respect your privacy. If all you want is to curate your news by source, this is a great way to do it.
 
 If you need more power and a healthier relationship with you phone, you can use a desktop news client. The two desktop clients I will be covering today are Thunderbird and QuietRSS. Both applications follow a similar approach to RSS.
 
@@ -67,7 +67,7 @@ Click on your account folder to add and manage feed subscriptions. It's rather s
 
 You can click on the Plus icon to add a new article to your feed in Quiet. Then select Next to pick a folder to store your feed in.
 
-You can add Random Thought's RSS feed using this URL: <a rel="noreferrer noopener" href="https://techtea.io/index.xml" target="_blank">https://techtea.io/index.xml</a>
+You can add Random Thought's RSS feed using this URL: [https://techtea.io/index.xml](https://techtea.io/index.xml).
 
 ## Filtering Messages
 

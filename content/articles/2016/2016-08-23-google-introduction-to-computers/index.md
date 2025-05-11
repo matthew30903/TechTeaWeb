@@ -28,7 +28,7 @@ Google's main uses will be searching the internet and for email. Google also run
 
 {{< figure src="./img/Google_Homepage">}}
 
-Making a Google account is easy and quick. The first thing you need to do is <a href="https://www.blog.mattlamont.com/internet-introduction-computers/">open up your web browser</a> (Firefox/Chrome/Etc.). In the search box just type up Google.com. At the top right of the screen there should be a blue button that says "Sign in". This will take you to a page where you can sign into an account or make a new one. Underneath the login prompt asking for an email address is a "Create account" button, click it.
+Making a Google account is easy and quick. The first thing you need to do is [open up your web browser](https://www.techtea.io/internet-introduction-computers/) (Firefox/Chrome/Etc.). In the search box just type up Google.com. At the top right of the screen there should be a blue button that says "Sign in". This will take you to a page where you can sign into an account or make a new one. Underneath the login prompt asking for an email address is a "Create account" button, click it.
 
 {{< figure src="./img/3-Google_Create_Account">}}
 
