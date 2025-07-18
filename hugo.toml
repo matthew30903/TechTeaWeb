@@ -58,8 +58,8 @@ pluralizelisttitles = false
   pageRef = '/articles'
   weight = 20
   [[menus.main]]
-  name = 'Notes'
-  pageRef = '/notes'
+  name = 'Photography'
+  pageRef = '/photography'
   weight = 30
     [[menus.main]]
   name = 'Reviews'
