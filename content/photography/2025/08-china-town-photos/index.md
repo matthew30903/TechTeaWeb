@@ -9,7 +9,7 @@ tags:
 slug: /china-town/
 keywords:
   - Photos
-description: Took more photos over these months. Here are the ones worth sharing.
+description: Took some photos from my first time in Chinatown, LA.
 ---
 
 I've been in LA for years now, but never went to Chinatown. Back in July a friend and I finally explored a little bit of the Chinatown area out here in Los Angeles.
