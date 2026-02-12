@@ -1,6 +1,6 @@
 ---
 title: "New Linux User Tips"
-date: 2026-02-04T09:20:59Z
+date: 2026-02-11T09:20:59Z
 authors: 
 - "Matthew Lamont"
 draft: false
