@@ -28,11 +28,11 @@ pluralizelisttitles = false
 
 
     # Hex colors for your content in light mode.
-    text_color = "#222"             # default is #222
-    content_bg_color = "#d9d0b4"    # default is #FAF9F6
-    link_color = "#53917E"          # default is #268bd2
-    tag_link_color = "#eee"
-    tag_bkg_color = "#53917E"
+    text_color = "#4d5a61"             # default is #222
+    content_bg_color = "#efebd4"    # default is #FAF9F6
+    link_color = "#35a77c"          # default is #268bd2
+    tag_link_color = "#fdf6e3"
+    tag_bkg_color = "#35a77c"
 
 
     text_color_dark = "#eee"                # default is #eee
