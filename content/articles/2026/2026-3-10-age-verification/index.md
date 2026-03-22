@@ -5,7 +5,7 @@ authors:
 - "Matthew Lamont"
 draft: false
 tags:
-  - Philosphy
+  - Philosophy
 slug: /age-verification/
 keywords:
   - Age Verification
