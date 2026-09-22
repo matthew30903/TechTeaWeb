@@ -1,6 +1,7 @@
 ---
 title: "Website Update: Adding Blogroll and JSON Feeds"
 date: 2024-06-06T10:02:53-07:00
+lastmod: 2026-09-22T10:02:53-07:00
 draft: false
 authors: 
 - "Matthew Lamont"
@@ -12,6 +13,8 @@ keywords:
 - JSON Feed
 description: I've added JSON Feeds and a blogroll to my website. Here is how.
 ---
+
+Update 2026-9-22: .Site.Data has been deprecated in favor of hugo.Data
 
 This website has been a major hobby for me lately. This time I added a couple new features that add a lot to the site. These are a blogroll and JSON Feeds.
 
@@ -34,7 +37,7 @@ I might add new fields in the future for creators who have podcasts and YouTube 
 Then I created a new layout file in ```/layouts/blogroll/blogroll.html``` with this section below: 
 
 ``` Go
-{{ range sort .Site.Data.blogroll.blogs "Name" }}
+{{ range sort hugo.Data.blogroll.blogs "Name" }}
     <li>
         {{ .Name }} <a href="{{ .Website }}"><span hidden="true">Website</span>{{ partial "svg.html" "globe" }}</a> <a href="{{ .RSS }}"><span hidden="true">RSS</span>{{ partial "svg.html" "rss" }}</a>
         <p>{{ .Description}}</p>
