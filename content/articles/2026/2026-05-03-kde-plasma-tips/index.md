@@ -33,7 +33,7 @@ There are several ways to access these tags.
 1. Using Dolphin's search feature.
    Click the **Magnify Glass icon in Dolphin's toolbar -> Filter -> Tags** and then select the tags you wish to search for. This only works for top level tags currently (no subtags) and searches all subdirectories. 
 2. You can find your tags Dolphin's lefthand sidebar. Click **All tags** or on one of your pined tags to see either a list of all your tags or the files under your pinned tags. These tags work similarly to other directories in Dolphin so you can open them up without going inside of them to see multiple tags at a time or go into one and see a folder with all your tagged files.
-3. Query them using KRunner. Open KRunner and then type **tags: <tag you want to search>** and it will list everything. So if you want to find all your cat photos you can just type **tags: cat**. Then select the file you want to open. This also works inside the Applications menu ("Start Menu" for you Windows users)
+3. Query them using KRunner. Open KRunner and then type **tags: < tag you want to search>** and it will list everything. So if you want to find all your cat photos you can just type **tags: cat**. Then select the file you want to open. This also works inside the Applications menu ("Start Menu" for you Windows users)
 4. Using the `baloosearch6` command in the terminal. You can use KDE's powerful search features from the terminal by simply typing `baloosearch6 <querry>` so to find our cat pictures we would just type `baloosearch6 "tag:cat"`. This lets you very easily use KDE tags in your scripts.
 
 A couple of things to note about tags: 

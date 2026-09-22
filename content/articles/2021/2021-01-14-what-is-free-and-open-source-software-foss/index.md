@@ -23,7 +23,7 @@ You will hear the terms Free and Open Source software (FOSS) and Libre software 
 
 Software falls under two different categories: proprietary and FOSS. Proprietary software gives the user minimal freedoms to use an application under a license agreement. Users of FOSS software are granted liberties to use the software as they see fit.
 
-Most software nowadays is built upon the code of FOSS software. Some of the big names, like Firefox and Node.js, are open source. Even proprietary apps, like Chrome and Google's Android, are built upon the open source chromium and <a href="https://source.android.com" target="_blank" rel="noreferrer noopener">AOSP</a> projects. 
+Most software nowadays is built upon the code of FOSS software. Some of the big names, like Firefox and Node.js, are open source. Even proprietary apps, like Chrome and Google's Android, are built upon the open source chromium and[AOSP](https://source.android.com) projects. 
 
 ## The Four Essential Freedoms of Free Software
 
@@ -64,11 +64,11 @@ Please consider donating, buying commercial versions of FOSS projects, and contr
 
 Here at Random Thoughts we try to use FOSS software as much as possible. We use:
 
-*   [WordPress](https://wordpress.org) for our website CMS
-*   [Matomo Analytics](https://matomo.org) for user analytics
-*   [Manjaro Linux](https://manjaro.org) for our desktops
-*   [NextCloud](https://nextcloud.com) for collaboration
-*   We also use the apps from our [Open Source Android Apps](https://www.blog.mattlamont.com/open-source-alternatives-to-common-android-apps/) article
+* [WordPress](https://wordpress.org) for our website CMS
+* [Matomo Analytics](https://matomo.org) for user analytics
+* [Manjaro Linux](https://manjaro.org) for our desktops
+* NextCloud](https://nextcloud.com) for collaboration
+* We also use the apps from our [Open Source Android Apps](https://www.blog.mattlamont.com/open-source-alternatives-to-common-android-apps/) article
 
 We are still looking for an affordable FOSS alternative to MailChimp for our email marketing, but we are getting closer to a fully open source and self-hosted ecosystem.
 

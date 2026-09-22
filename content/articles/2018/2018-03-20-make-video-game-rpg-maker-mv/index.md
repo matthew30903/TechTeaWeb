@@ -24,12 +24,12 @@ Many people dream of making a video game. Gaming is one the the ages most popula
 
 After deciding we have the determination to make a video game we need to do several things:
 
-1.  Define our goal
-2.  Pick a genre
-3.  Pick an engine
-4.  Refine our concepts
-5.  Estimate costs
-6.  Build our team
+1. Define our goal
+2. Pick a genre
+3. Pick an engine
+4. Refine our concepts
+5. Estimate costs
+6. Build our team
 
 Many are tempted to run ahead and make things up as they go. That rarely works. If you look on Steam or Itch you will see many unfinished projects. These 'games' are unpolished, poorly written, and use the generic features of what ever engine the developer could find at the time. To avoid this we need to define our goals beforehand.
 
@@ -75,7 +75,7 @@ Godot is a free and open source (MIT) general purpose game engine for both 2D an
 
 The latest release in the RPG Maker series of engines, RPG Maker MV is a proprietary engine that supports all major platforms and utilizes JavaScript and HTML5 for programming. The engine is easier to use than Godot and is built for our particular task. All the functions for a RPG already exist and it comes with many resources prebuilt for our use. The catch is that it is proprietary, not as flexible without putting in effort, and costs money. That said there is no royalty fees and you are getting a lot of resources with it.
 
-<blockquote>Due to the cost of hiring artists and scripting we will use RPG Maker MV for this. It does cost more initially, but we can get away with using the default assets till we are ready to publish our game.
+> Due to the cost of hiring artists and scripting we will use RPG Maker MV for this. It does cost more initially, but we can get away with using the default assets till we are ready to publish our game.
 
 ## Estimate Costs
 

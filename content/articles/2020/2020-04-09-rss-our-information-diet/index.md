@@ -61,7 +61,7 @@ Click on your account folder to add and manage feed subscriptions. It's rather s
 
 ### QuietRSS
 
-[QuietRSS](https://quiterss.org/en/download)</a> is a free and open source desktop RSS reader. Quiet is simple and easy to use, as it is a dedicated RSS reader. It also has an integrated web browser for viewing articles from the source, something Thunderbird lacks without extensions. It is available for Linux, Mac, and Windows.
+[QuietRSS](https://quiterss.org/en/download) is a free and open source desktop RSS reader. Quiet is simple and easy to use, as it is a dedicated RSS reader. It also has an integrated web browser for viewing articles from the source, something Thunderbird lacks without extensions. It is available for Linux, Mac, and Windows.
 
 {{< figure src="./img/quiet_rss_add_feed" alt="Image: Add a Feed to QuietRSS">}}
 

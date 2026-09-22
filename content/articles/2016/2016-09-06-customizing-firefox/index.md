@@ -35,7 +35,7 @@ Firefox is rather powerful on its own, but some things that should be default ar
 
 We will go over some of the most useful and fun extensions in this article.
 
-### Adblock Plus / [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)</a>
+### Adblock Plus / [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
 {{< figure src="./img/Adblock_Disable_Ads" alt="Image: Blocked Ads">}}
 
