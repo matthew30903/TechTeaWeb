@@ -19,7 +19,7 @@ price: "$51.90"
 _weight: "4oz"
 temperature: "74°C - 82°C "
 brewtime: "1-3 Minutes"
-teas: 
+tea_types: 
     - Green
     - Gyokuro
 ---

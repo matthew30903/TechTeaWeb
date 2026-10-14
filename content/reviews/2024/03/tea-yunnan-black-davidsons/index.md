@@ -20,7 +20,7 @@ _weight: "2oz"
 temperature: "100°C "
 brewtime: "3-5 Minutes"
 rating: 3.5
-teas: 
+tea_types: 
     - Black
 ---
 

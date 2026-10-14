@@ -20,7 +20,7 @@ _weight: "100g"
 temperature: "70°C"
 brewtime: "45-60 seconds"
 rating: 5
-teas: 
+tea_types: 
     - Green
     - Sencha
     - Hatsutsumi

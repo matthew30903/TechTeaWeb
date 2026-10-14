@@ -15,7 +15,7 @@ location_obtained: Sipsby Tea Discovery Box. Sipsby is a great service for disco
 affiliate: false
 review_type: Tea
 brands: "Vahdam Teas"
-teas: 
+tea_types: 
     - Green
 
 price: "$19.99"

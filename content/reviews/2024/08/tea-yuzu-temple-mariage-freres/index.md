@@ -20,7 +20,7 @@ _weight: "100g"
 temperature: "80°C"
 brewtime: "2-3 Minutes"
 rating: 3.5
-teas: 
+tea_types: 
     - Green
 ---
 

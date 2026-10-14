@@ -86,7 +86,7 @@ pluralizelisttitles = false
     category = "categories"
     author = "authors"
     brand = "brands"
-    tea = "teas"
+    tea_type = "tea_types"
 
 [sitemap]
   changefreq = "weekly"

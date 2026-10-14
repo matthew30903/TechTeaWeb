@@ -19,10 +19,8 @@ price: "$15.00"
 _weight: "50g"
 temperature: "176° F (80° C)"
 brewtime: "3-4 Minutes  "
-teas:
+tea_types:
     - Oolong
-
-
 ---
 
 

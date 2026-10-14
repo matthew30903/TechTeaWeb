@@ -19,7 +19,7 @@ price: $50
 _weight: 227g (.5 lb)
 temperature: 120 - 140°F
 brewtime: 3-4 Minutes
-teas: 
+tea_types: 
     - Green
     - Gyokuro
 ---
