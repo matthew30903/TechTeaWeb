@@ -1,0 +1,55 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <table class="entries">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Brand</th>
+        <th>Type</th>
+        <th>Date Added</th>
+        <th>Score</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range .Pages }}
+        {{/* Sort entries*/}}
+        {{ $reviews := sort .Params.reviews "date" "asc" }}
+
+        {{/* Earliest review entry */}}
+        {{ $firstReview := index $reviews 0 }}
+
+        {{/* Latest review entry */}}
+        {{ $latestReview := index $reviews (sub (len $reviews) 1) }}
+
+        <tr>
+          <td>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </td>
+          <td>{{ index .Params.brands 0 | default "N/A" }}</td>
+          <td>{{ index .Params.tea_types 0 | default "N/A" }}</td>
+          <td>
+            {{ if $firstReview }}
+              {{ time.Format ":date_short" $firstReview.date }}
+            {{ else }}
+              N/A
+            {{ end }}
+          </td>
+
+          <!-- Most Recent Score Extraction -->
+          <td>
+            {{ if $latestReview }}
+              {{ $latestReview.rating }}
+            {{ else }}
+              N/A
+            {{ end }}
+          </td>
+        </tr>
+      {{ else }}
+        <tr>
+         No teas logged in your database yet.
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+{{ end }}

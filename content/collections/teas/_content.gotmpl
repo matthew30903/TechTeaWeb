@@ -1,0 +1,27 @@
+{{ range .Site.Data.teas }}
+  {{ $sortedReviews := sort .reviews "date" "desc" }}
+  {{ $latestReview := index $sortedReviews 0 }}
+
+  {{ $latestRating := 0 }}
+  {{ if $latestReview }}
+    {{ $latestRating = $latestReview.rating }}
+  {{ end }}
+
+  {{ $page := dict
+    "title" .title
+    "path" .id
+    "kind" "page"
+    "params" (dict
+      "origin" .origin
+      "acquired_from" .acquired_from
+      "latest_rating" $latestRating
+      "reviews" .reviews
+      "thoughts" .thoughts
+      "price" .price
+      "text_body" .text_body
+      "brands" (slice .brand)
+      "tea_types" (slice .type)
+    )
+  }}
+  {{ $.AddPage $page }}
+{{ end }}

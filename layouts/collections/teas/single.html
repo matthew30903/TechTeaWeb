@@ -1,0 +1,52 @@
+{{ define "main" }}
+<article >
+
+  <h1>{{ .Title }} {{ with index .Params.brands 0 }} by <a href="{{ "brands/" | relURL }}{{ . | urlize }}/"> {{ . }} </a>{{ else }}{{ end }}</h1>
+
+  <div class="review-summary">
+    <p>{{ with index .Params.brands 0 }} Brand:
+        <a href="{{ "brands/" | relURL }}{{ . | urlize }}/"> {{ . }} </a>{{ else }} {{ end }}</p>
+    <p><strong>Type:</strong>       {{ with index .Params.tea_types 0 }}
+        <a href="{{ "tea_types/" | relURL }}{{ . | urlize }}/"> {{ . }} </a>{{ else }}{{ end }}</p>
+    {{ if .Params.origin }}
+      <p><strong>Origin:</strong> {{ .Params.origin }}</p>
+    {{ end }}
+    {{ if .Params.acquired_from }}
+      <p><strong>Acquired From:</strong> {{ .Params.acquired_from }}</p>
+    {{ end }}
+    <p><strong>Price</strong> {{ .Params.price }}
+    <p><strong>Rating:</strong> <span class="Stars" style="--rating: {{.Params.latest_rating}};" aria-label="Rating of this product is {{ .Params.rating }} out of 5."></span></p>
+    <p>{{ .Params.thoughts }}</p>
+  </div>
+
+  {{ if .Params.text_body}}
+    <p>{{ .Params.text_body }}</p>
+  {{ end }}
+
+  <!-- Review Logs -->
+  <section>
+    <h2>Brewing Notes</h2>
+
+    {{ range sort .Params.reviews "date" "desc" }}
+      <div class="review-description">
+        <details>
+        <summary>{{ time.Format ":date_long" .date }}</summary>
+
+          <div>
+            <p> <strong>Rating:</strong> {{ .rating }} / 5 | <strong>Method:</strong> {{ .method }} | <strong>Time {{ partial "svg.html" "clock" }}:</strong> {{ .brewing_time }}
+            {{ with .temperature }}
+              | <strong>Temp {{ partial "svg.html" "temperature-half" }}:</strong> {{ . }}
+            {{ end }} </p>
+          </div>
+
+          <p class="review-text">
+            "{{ .text }}"
+          </p>
+        </details>
+      </div>
+    {{ else }}
+      <p>No tasting notes added yet.</p>
+    {{ end }}
+  </section>
+</article>
+{{ end }}
